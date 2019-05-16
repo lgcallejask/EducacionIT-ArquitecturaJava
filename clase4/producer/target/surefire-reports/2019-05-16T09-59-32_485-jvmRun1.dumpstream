@@ -1,0 +1,2869 @@
+# Created at 2019-05-16T12:34:54.083
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-05-16T12:34:54.517
+Unexpected IOException with stream: Sent sample message [Usuario{id=ad1d687e-e56c-4565-aa44-cbef260795eb, nombre=Webster Bogisich, ciudad=Stokesfort, pais=Bermuda}]
+
+
+# Created at 2019-05-16T12:34:54.620
+Unexpected IOException with stream: Sent sample message [Usuario{id=bd5c55e9-1e24-4ec0-914f-29e27ff66d97, nombre=Freeda Robel, ciudad=Lake Charley, pais=Sao Tome and Principe}]
+
+
+# Created at 2019-05-16T12:34:54.721
+Unexpected IOException with stream: Sent sample message [Usuario{id=189bbdfe-1269-49bd-943a-901756fb9643, nombre=Shakira Senger, ciudad=West Abdullah, pais=Kyrgyz Republic}]
+
+
+# Created at 2019-05-16T12:34:54.822
+Unexpected IOException with stream: Sent sample message [Usuario{id=2ea3a285-663b-49c0-8f08-cd1e06f2d162, nombre=Miss Judd Gutkowski, ciudad=Cassinburgh, pais=Netherlands}]
+
+
+# Created at 2019-05-16T12:34:54.924
+Unexpected IOException with stream: Sent sample message [Usuario{id=cb14d619-bff7-40dd-ab43-f31cfb54dda1, nombre=Miss Buster Rau, ciudad=Torphymouth, pais=Faroe Islands}]
+
+
+# Created at 2019-05-16T12:34:55.027
+Unexpected IOException with stream: Sent sample message [Usuario{id=ede95965-ef54-4742-aea3-bf1286e6b205, nombre=Dr. Consuelo Gleason, ciudad=North Uniqueport, pais=Libyan Arab Jamahiriya}]
+
+
+# Created at 2019-05-16T12:34:55.129
+Unexpected IOException with stream: Sent sample message [Usuario{id=366c92d5-de83-4e4b-81db-6fbd097ce847, nombre=Rosemarie Hane, ciudad=Lake Jordyntown, pais=Bangladesh}]
+
+
+# Created at 2019-05-16T12:34:55.229
+Unexpected IOException with stream: Sent sample message [Usuario{id=f53a7045-17ec-4fb9-92c9-75f2e58f2d85, nombre=Mohammed Veum, ciudad=Port Torrey, pais=Indonesia}]
+
+
+# Created at 2019-05-16T12:34:55.335
+Unexpected IOException with stream: Sent sample message [Usuario{id=c5b79186-4757-4ea3-9eae-acc6681c581f, nombre=Ewell Glover, ciudad=Kelvinland, pais=Congo}]
+
+
+# Created at 2019-05-16T12:34:55.436
+Unexpected IOException with stream: Sent sample message [Usuario{id=ff2ac925-3ad1-4eb8-8694-11c767554384, nombre=Angeline Metz IV, ciudad=North Jamalshire, pais=Cook Islands}]
+
+
+# Created at 2019-05-16T12:34:55.538
+Unexpected IOException with stream: Sent sample message [Usuario{id=7780d917-cb4c-473a-a710-b14b6e7b1616, nombre=Ms. Maryse Smitham, ciudad=Royburgh, pais=American Samoa}]
+
+
+# Created at 2019-05-16T12:34:55.641
+Unexpected IOException with stream: Sent sample message [Usuario{id=d971766b-4572-4792-b567-999398cec7ba, nombre=Jennifer Halvorson, ciudad=Marquardttown, pais=Barbados}]
+
+
+# Created at 2019-05-16T12:34:55.741
+Unexpected IOException with stream: Sent sample message [Usuario{id=83fbb0cb-6a7c-4d0f-b763-a3c431f624f6, nombre=Olin Funk, ciudad=Jasminburgh, pais=Ireland}]
+
+
+# Created at 2019-05-16T12:34:55.843
+Unexpected IOException with stream: Sent sample message [Usuario{id=b3d65084-a1c4-491b-8225-55a24841e398, nombre=Mr. Laura Hartmann, ciudad=Carolyneview, pais=Denmark}]
+
+
+# Created at 2019-05-16T12:34:55.945
+Unexpected IOException with stream: Sent sample message [Usuario{id=cd8dea73-c10e-4e85-8869-7238e43c7dab, nombre=Angela Koelpin, ciudad=New Leola, pais=Congo}]
+
+
+# Created at 2019-05-16T12:34:56.049
+Unexpected IOException with stream: Sent sample message [Usuario{id=4e284a39-a269-43a3-9696-3fc88803d545, nombre=Lavada Paucek, ciudad=West Millerbury, pais=Pitcairn Islands}]
+
+
+# Created at 2019-05-16T12:34:56.152
+Unexpected IOException with stream: Sent sample message [Usuario{id=bcfbd6fa-4f20-4e66-8b28-85c8866e866b, nombre=Albin Wyman, ciudad=West Berniceburgh, pais=South Africa}]
+
+
+# Created at 2019-05-16T12:34:56.254
+Unexpected IOException with stream: Sent sample message [Usuario{id=093395d1-3114-4bd2-84f2-43134c00b578, nombre=Emilio Eichmann, ciudad=Jaydenport, pais=Christmas Island}]
+
+
+# Created at 2019-05-16T12:34:56.356
+Unexpected IOException with stream: Sent sample message [Usuario{id=8678be24-af0a-4769-baff-b4ecbe04f247, nombre=Mollie Schroeder, ciudad=Erdmanside, pais=United States of America}]
+
+
+# Created at 2019-05-16T12:34:56.459
+Unexpected IOException with stream: Sent sample message [Usuario{id=f2481b2f-543f-44a0-a7f0-667282c495cb, nombre=Prince Huel, ciudad=Yazminberg, pais=Burundi}]
+
+
+# Created at 2019-05-16T12:34:56.563
+Unexpected IOException with stream: Sent sample message [Usuario{id=4371bdb3-ad8e-4ff6-88d2-492bffdfe136, nombre=Friedrich Berge, ciudad=East Winnifred, pais=Jamaica}]
+
+
+# Created at 2019-05-16T12:34:56.666
+Unexpected IOException with stream: Sent sample message [Usuario{id=a4f24553-a5bf-4847-bc23-6e740c6836a6, nombre=Dr. Alysa Mohr, ciudad=West Percivalshire, pais=Oman}]
+
+
+# Created at 2019-05-16T12:34:56.770
+Unexpected IOException with stream: Sent sample message [Usuario{id=a9a8d7b7-217d-49cf-bfea-b47ce961f27f, nombre=Grace Daniel, ciudad=Lake Kennith, pais=Tuvalu}]
+
+
+# Created at 2019-05-16T12:34:56.873
+Unexpected IOException with stream: Sent sample message [Usuario{id=e9e856ca-06c5-4fa2-bf2f-5cb64b8682c5, nombre=Dina Barton, ciudad=Port Ali, pais=Greenland}]
+
+
+# Created at 2019-05-16T12:34:56.975
+Unexpected IOException with stream: Sent sample message [Usuario{id=2b025679-53c7-46c2-828f-02b2bfd6e9a5, nombre=Miss Jed Greenfelder, ciudad=Port Mariellebury, pais=Kenya}]
+
+
+# Created at 2019-05-16T12:34:57.078
+Unexpected IOException with stream: Sent sample message [Usuario{id=798a0b61-33f0-42cd-a52a-546871841361, nombre=Mohamed Feeney V, ciudad=Whiteburgh, pais=Ethiopia}]
+
+
+# Created at 2019-05-16T12:34:57.180
+Unexpected IOException with stream: Sent sample message [Usuario{id=42f70384-1270-4edc-97fd-ba239c03da78, nombre=Carli Labadie, ciudad=Townechester, pais=Puerto Rico}]
+
+
+# Created at 2019-05-16T12:34:57.282
+Unexpected IOException with stream: Sent sample message [Usuario{id=8275e7d8-1b82-4309-98e6-86baebede058, nombre=Gloria Greenholt DDS, ciudad=East Mekhitown, pais=Chile}]
+
+
+# Created at 2019-05-16T12:34:57.385
+Unexpected IOException with stream: Sent sample message [Usuario{id=ce4dbb5d-74d5-493d-8291-2115f837128b, nombre=Jayden Cole Sr., ciudad=East Brandichester, pais=Eritrea}]
+
+
+# Created at 2019-05-16T12:34:57.485
+Unexpected IOException with stream: Sent sample message [Usuario{id=ee494fc7-218f-4ede-9858-eee30dd8e5b9, nombre=Tressa Kilback, ciudad=Macejkovicview, pais=South Georgia and the South Sandwich Islands}]
+
+
+# Created at 2019-05-16T12:34:57.586
+Unexpected IOException with stream: Sent sample message [Usuario{id=9033369b-76e9-4782-8c7c-643096ad0aad, nombre=Dr. Anita Brakus, ciudad=Jamilfort, pais=French Southern Territories}]
+
+
+# Created at 2019-05-16T12:34:57.687
+Unexpected IOException with stream: Sent sample message [Usuario{id=3f5f68c4-1476-446c-8ef1-68b657bef6e8, nombre=Kyleigh Wuckert, ciudad=Darebury, pais=Puerto Rico}]
+
+
+# Created at 2019-05-16T12:34:57.792
+Unexpected IOException with stream: Sent sample message [Usuario{id=def7123d-3fac-4d44-8a95-bfca37fd2e87, nombre=Jalon Kuphal, ciudad=Port Jerroldland, pais=Tunisia}]
+
+
+# Created at 2019-05-16T12:34:57.895
+Unexpected IOException with stream: Sent sample message [Usuario{id=933398f3-5977-44b8-8da0-61d3dec708cd, nombre=Jean Lehner, ciudad=Braulioshire, pais=Tajikistan}]
+
+
+# Created at 2019-05-16T12:34:57.997
+Unexpected IOException with stream: Sent sample message [Usuario{id=76fa18cf-937c-44d2-994e-cb842860e6a3, nombre=Imogene Hickle DVM, ciudad=Port Julianne, pais=Albania}]
+
+
+# Created at 2019-05-16T12:34:58.099
+Unexpected IOException with stream: Sent sample message [Usuario{id=663a511d-de6e-4592-94cc-9462bfd3d136, nombre=Wilber Predovic, ciudad=South Marytown, pais=Madagascar}]
+
+
+# Created at 2019-05-16T12:34:58.213
+Unexpected IOException with stream: Sent sample message [Usuario{id=c85c5d60-342b-40a2-9896-0ba520bf6d3b, nombre=Elva Marquardt, ciudad=Port Nelson, pais=Cayman Islands}]
+
+
+# Created at 2019-05-16T12:34:58.313
+Unexpected IOException with stream: Sent sample message [Usuario{id=f4b35a0d-bf3e-4997-b6e3-4b338cadcf04, nombre=Earl Stokes I, ciudad=North Laron, pais=Seychelles}]
+
+
+# Created at 2019-05-16T12:34:58.413
+Unexpected IOException with stream: Sent sample message [Usuario{id=c458e010-8cc3-4cf4-8e21-c4fc7a7c89b8, nombre=Darron Bednar, ciudad=Williamsonberg, pais=Cape Verde}]
+
+
+# Created at 2019-05-16T12:34:58.514
+Unexpected IOException with stream: Sent sample message [Usuario{id=e24b2b43-d045-47e4-8f89-f85e207544ab, nombre=Lexus Volkman, ciudad=Oswaldburgh, pais=Oman}]
+
+
+# Created at 2019-05-16T12:34:58.633
+Unexpected IOException with stream: Sent sample message [Usuario{id=69b22243-fc9d-446b-a301-c4cadb938266, nombre=Otho Lemke, ciudad=Gulgowskichester, pais=Bulgaria}]
+
+
+# Created at 2019-05-16T12:34:58.739
+Unexpected IOException with stream: Sent sample message [Usuario{id=1235afec-dd2d-4a89-80ab-dc9e8997342b, nombre=Zella Dietrich, ciudad=West Garret, pais=Papua New Guinea}]
+
+
+# Created at 2019-05-16T12:34:58.842
+Unexpected IOException with stream: Sent sample message [Usuario{id=105ee90d-7a29-4bc9-a1a4-7feaffd96580, nombre=Loren Botsford, ciudad=South Dino, pais=Jordan}]
+
+
+# Created at 2019-05-16T12:34:58.944
+Unexpected IOException with stream: Sent sample message [Usuario{id=bb8bc635-8bae-4e3b-8289-172acf49657b, nombre=Joany Marquardt, ciudad=Abbigailborough, pais=Togo}]
+
+
+# Created at 2019-05-16T12:34:59.044
+Unexpected IOException with stream: Sent sample message [Usuario{id=2232ca52-15f3-4636-b422-67ee5222cf14, nombre=Ezra Ward III, ciudad=North Layla, pais=French Southern Territories}]
+
+
+# Created at 2019-05-16T12:34:59.145
+Unexpected IOException with stream: Sent sample message [Usuario{id=e82ba362-d37e-4ea8-8c5c-ecec3310415c, nombre=Miss Tillman Boehm, ciudad=East Gerdamouth, pais=Namibia}]
+
+
+# Created at 2019-05-16T12:34:59.248
+Unexpected IOException with stream: Sent sample message [Usuario{id=1f520476-0e75-48fc-aea2-283fc801baaf, nombre=Assunta Kiehn, ciudad=Lake Jarrettfort, pais=Pakistan}]
+
+
+# Created at 2019-05-16T12:34:59.351
+Unexpected IOException with stream: Sent sample message [Usuario{id=8fe7a365-1ed7-458c-9378-e8296b66b035, nombre=Wilburn McCullough, ciudad=Lake Dorrischester, pais=Western Sahara}]
+
+
+# Created at 2019-05-16T12:34:59.456
+Unexpected IOException with stream: Sent sample message [Usuario{id=8ad9a8e3-657e-4ba8-a9ef-83e43fb0da92, nombre=Chyna Volkman, ciudad=Lake Braxton, pais=Panama}]
+
+
+# Created at 2019-05-16T12:34:59.559
+Unexpected IOException with stream: Sent sample message [Usuario{id=a05c979b-3a64-4931-b7c2-c29f7f071691, nombre=Dexter Koepp, ciudad=Powlowskitown, pais=Iran}]
+
+
+# Created at 2019-05-16T12:34:59.660
+Unexpected IOException with stream: Sent sample message [Usuario{id=3ef44263-9922-4dc3-801b-085c2429df66, nombre=Mrs. Gabriella Corwin, ciudad=Nellieborough, pais=Croatia}]
+
+
+# Created at 2019-05-16T12:34:59.760
+Unexpected IOException with stream: Sent sample message [Usuario{id=ae2e82b5-73ee-4a19-99af-46b667a9a45d, nombre=Mr. Bridie Kemmer, ciudad=Marksland, pais=Canada}]
+
+
+# Created at 2019-05-16T12:34:59.861
+Unexpected IOException with stream: Sent sample message [Usuario{id=51c6fef7-c8cc-49e4-b938-218c3434932c, nombre=Camilla Toy, ciudad=West Hankland, pais=Vanuatu}]
+
+
+# Created at 2019-05-16T12:34:59.962
+Unexpected IOException with stream: Sent sample message [Usuario{id=b6d6a2de-eab4-405b-b861-fdbfafd879d8, nombre=Keyon Frami, ciudad=Lilianchester, pais=Turkmenistan}]
+
+
+# Created at 2019-05-16T12:35:00.062
+Unexpected IOException with stream: Sent sample message [Usuario{id=f5bb437e-478c-4e02-810b-dedefe242b91, nombre=Grady Purdy, ciudad=Chelsieberg, pais=Solomon Islands}]
+
+
+# Created at 2019-05-16T12:35:00.163
+Unexpected IOException with stream: Sent sample message [Usuario{id=a056c35e-e848-440f-9b34-e070d068614a, nombre=Mrs. Dell Christiansen, ciudad=Maudiemouth, pais=Heard Island and McDonald Islands}]
+
+
+# Created at 2019-05-16T12:35:00.264
+Unexpected IOException with stream: Sent sample message [Usuario{id=a280afc1-fb33-4c14-b038-8ec1fa5b5dfe, nombre=Patrick Beer, ciudad=Port Venamouth, pais=Nicaragua}]
+
+
+# Created at 2019-05-16T12:35:00.365
+Unexpected IOException with stream: Sent sample message [Usuario{id=4d4d270e-6a9d-4e4e-a30f-8c82889e0443, nombre=Rashad Durgan, ciudad=Rohanfurt, pais=Denmark}]
+
+
+# Created at 2019-05-16T12:35:00.466
+Unexpected IOException with stream: Sent sample message [Usuario{id=965351ce-e28f-44ec-9c2b-2d5b65c3fda5, nombre=Hershel Torphy, ciudad=Curtside, pais=Montenegro}]
+
+
+# Created at 2019-05-16T12:35:00.568
+Unexpected IOException with stream: Sent sample message [Usuario{id=0317ab03-c01e-4945-a7f9-f13f7634f78d, nombre=Georgiana Fritsch, ciudad=Valentinport, pais=Qatar}]
+
+
+# Created at 2019-05-16T12:35:00.669
+Unexpected IOException with stream: Sent sample message [Usuario{id=008b7196-f995-462e-a583-576dad5d9973, nombre=Johan Wintheiser, ciudad=South Zoeymouth, pais=Saint Barthelemy}]
+
+
+# Created at 2019-05-16T12:35:00.769
+Unexpected IOException with stream: Sent sample message [Usuario{id=8647e857-9701-4f4e-a6cf-69408e8fc991, nombre=Ressie Shields, ciudad=Bartonview, pais=Ecuador}]
+
+
+# Created at 2019-05-16T12:35:00.870
+Unexpected IOException with stream: Sent sample message [Usuario{id=c775e140-1b16-45b0-9843-6fb5171815ec, nombre=Destinee Schowalter, ciudad=Kassulkeland, pais=Antarctica (the territory South of 60 deg S)}]
+
+
+# Created at 2019-05-16T12:35:00.971
+Unexpected IOException with stream: Sent sample message [Usuario{id=3e572afa-c791-4afe-b8f5-5dc094899333, nombre=Geovanni Reichert V, ciudad=Daughertystad, pais=Slovakia (Slovak Republic)}]
+
+
+# Created at 2019-05-16T12:35:01.072
+Unexpected IOException with stream: Sent sample message [Usuario{id=bac3feec-28ca-4fb4-a985-906628ad8d87, nombre=Lisette Gislason, ciudad=Gunnarbury, pais=Guadeloupe}]
+
+
+# Created at 2019-05-16T12:35:01.173
+Unexpected IOException with stream: Sent sample message [Usuario{id=9a083011-553d-469a-867f-4875a45bd94b, nombre=Gwendolyn Wyman I, ciudad=Danielletown, pais=Zambia}]
+
+
+# Created at 2019-05-16T12:35:01.274
+Unexpected IOException with stream: Sent sample message [Usuario{id=e9c91437-caa4-4c86-99d5-884cf24bfd57, nombre=Jerrold Wiegand, ciudad=Boehmberg, pais=Monaco}]
+
+
+# Created at 2019-05-16T12:35:01.377
+Unexpected IOException with stream: Sent sample message [Usuario{id=b40fcb4f-490f-4a13-b076-5bcf9d832290, nombre=Frances Upton, ciudad=Wallacechester, pais=Holy See (Vatican City State)}]
+
+
+# Created at 2019-05-16T12:35:01.480
+Unexpected IOException with stream: Sent sample message [Usuario{id=74fd4d6d-328e-4bd7-9e79-0bb3d5b2d933, nombre=Miss Wilhelm D'Amore, ciudad=Tamiaville, pais=Djibouti}]
+
+
+# Created at 2019-05-16T12:35:01.581
+Unexpected IOException with stream: Sent sample message [Usuario{id=52e387fa-5790-4bbc-ad12-d8e235c0c2b9, nombre=Destin Lynch, ciudad=North Devantebury, pais=Liechtenstein}]
+
+
+# Created at 2019-05-16T12:35:01.683
+Unexpected IOException with stream: Sent sample message [Usuario{id=ab54cea2-d154-4931-a38c-212e786450f6, nombre=Chaim Block, ciudad=Kutchside, pais=Botswana}]
+
+
+# Created at 2019-05-16T12:35:01.785
+Unexpected IOException with stream: Sent sample message [Usuario{id=5cfc875f-a666-457e-8ff3-b20012cec35e, nombre=Maximillia Wiza, ciudad=Port Lorinefurt, pais=Antarctica (the territory South of 60 deg S)}]
+
+
+# Created at 2019-05-16T12:35:01.889
+Unexpected IOException with stream: Sent sample message [Usuario{id=d151fe43-b4ea-4920-8a4f-71e95f892776, nombre=Savanah Hirthe, ciudad=South Murielburgh, pais=Dominican Republic}]
+
+
+# Created at 2019-05-16T12:35:01.989
+Unexpected IOException with stream: Sent sample message [Usuario{id=0304d662-89e2-46bf-9d48-c66dc31df671, nombre=Stone Jast, ciudad=Fionaton, pais=Isle of Man}]
+
+
+# Created at 2019-05-16T12:35:02.089
+Unexpected IOException with stream: Sent sample message [Usuario{id=6ec43d4e-f3a5-4afd-9c32-3b21c5b8fe68, nombre=Tyshawn Witting, ciudad=Kayleyview, pais=Tajikistan}]
+
+
+# Created at 2019-05-16T12:35:02.190
+Unexpected IOException with stream: Sent sample message [Usuario{id=0c53e383-a144-44c5-9e8f-4d82a15e5b52, nombre=Sabrina Wiza Sr., ciudad=Port Krista, pais=United States Minor Outlying Islands}]
+
+
+# Created at 2019-05-16T12:35:02.290
+Unexpected IOException with stream: Sent sample message [Usuario{id=6a0d6613-f691-4200-be07-d415750af336, nombre=Montana Vandervort, ciudad=McCulloughtown, pais=Liechtenstein}]
+
+
+# Created at 2019-05-16T12:35:02.392
+Unexpected IOException with stream: Sent sample message [Usuario{id=422cecff-cf1e-41e1-a7be-f4d8f4fc3f2e, nombre=Raegan Leannon DDS, ciudad=Port Joshuah, pais=Sudan}]
+
+
+# Created at 2019-05-16T12:35:02.493
+Unexpected IOException with stream: Sent sample message [Usuario{id=58e63084-a437-4e80-b8d4-36a11b6d2deb, nombre=Janis MacGyver, ciudad=North Shyanneshire, pais=Nicaragua}]
+
+
+# Created at 2019-05-16T12:35:02.595
+Unexpected IOException with stream: Sent sample message [Usuario{id=b7a878b2-2953-4815-915d-a84173ea3687, nombre=Mrs. Mason Johnston, ciudad=Brayanside, pais=Senegal}]
+
+
+# Created at 2019-05-16T12:35:02.696
+Unexpected IOException with stream: Sent sample message [Usuario{id=3caac7e5-794d-4616-86a4-47535ceb5dd3, nombre=Mrs. Clifton Lakin, ciudad=McLaughlinmouth, pais=Nicaragua}]
+
+
+# Created at 2019-05-16T12:35:02.797
+Unexpected IOException with stream: Sent sample message [Usuario{id=cbc51f38-f46d-4b14-8b8a-8702118f362b, nombre=Sabryna Ullrich, ciudad=Port Rosaliaside, pais=Heard Island and McDonald Islands}]
+
+
+# Created at 2019-05-16T12:35:02.899
+Unexpected IOException with stream: Sent sample message [Usuario{id=65e2fe1c-175d-468a-8841-fda1645db223, nombre=Antoinette Rippin, ciudad=Bernierside, pais=Falkland Islands (Malvinas)}]
+
+
+# Created at 2019-05-16T12:35:03.001
+Unexpected IOException with stream: Sent sample message [Usuario{id=4b30de2b-b3ac-41aa-8f84-d450f38d0ec9, nombre=Devin Gibson Sr., ciudad=North Diana, pais=Christmas Island}]
+
+
+# Created at 2019-05-16T12:35:03.106
+Unexpected IOException with stream: Sent sample message [Usuario{id=ecdfb22c-349a-4f2a-927c-16b1eaf8e3e9, nombre=Willis Trantow, ciudad=Greenholtbury, pais=Ethiopia}]
+
+
+# Created at 2019-05-16T12:35:03.209
+Unexpected IOException with stream: Sent sample message [Usuario{id=142f3b4c-7228-4782-b8ca-a53463ca6520, nombre=Prudence Bogan, ciudad=Grayceberg, pais=Netherlands}]
+
+
+# Created at 2019-05-16T12:35:03.309
+Unexpected IOException with stream: Sent sample message [Usuario{id=e22364b4-9b3a-4213-b0fa-8725f4aabefb, nombre=Luther Douglas, ciudad=West Allison, pais=Syrian Arab Republic}]
+
+
+# Created at 2019-05-16T12:35:03.411
+Unexpected IOException with stream: Sent sample message [Usuario{id=0ab2d2dd-eaa0-4ef0-83a7-76f252b9a28f, nombre=Gudrun O'Conner, ciudad=Raynorburgh, pais=Malawi}]
+
+
+# Created at 2019-05-16T12:35:03.513
+Unexpected IOException with stream: Sent sample message [Usuario{id=d7f2fa26-3c06-4a2a-a150-cad7133ccdb1, nombre=Bennett Littel, ciudad=West Howellburgh, pais=Cambodia}]
+
+
+# Created at 2019-05-16T12:35:03.616
+Unexpected IOException with stream: Sent sample message [Usuario{id=15f75198-f117-4801-b936-d670cf0fa8c1, nombre=Favian Harber, ciudad=Lake Norma, pais=Anguilla}]
+
+
+# Created at 2019-05-16T12:35:03.718
+Unexpected IOException with stream: Sent sample message [Usuario{id=6acd9288-8bb6-4634-8055-502ac9c9270a, nombre=Madison Quigley DVM, ciudad=New Kaitlinside, pais=Tajikistan}]
+
+
+# Created at 2019-05-16T12:35:03.818
+Unexpected IOException with stream: Sent sample message [Usuario{id=4a2841c8-ce88-405f-bb3c-9520b8955a9f, nombre=Orland Lockman, ciudad=Ziemannfort, pais=Mauritius}]
+
+
+# Created at 2019-05-16T12:35:03.920
+Unexpected IOException with stream: Sent sample message [Usuario{id=ccff6dfe-3182-4989-b72b-8a9898a6cd2e, nombre=Mathias Davis III, ciudad=Strosinstad, pais=Brunei Darussalam}]
+
+
+# Created at 2019-05-16T12:35:04.022
+Unexpected IOException with stream: Sent sample message [Usuario{id=ae983fbd-95c1-4b46-b31f-cfe98be565c1, nombre=Darron Wisoky, ciudad=Kylebury, pais=Marshall Islands}]
+
+
+# Created at 2019-05-16T12:35:04.124
+Unexpected IOException with stream: Sent sample message [Usuario{id=e74b3ac3-ca55-448f-91f9-47d3987dde79, nombre=Jayde Wiegand I, ciudad=Ziemannfurt, pais=Lao People's Democratic Republic}]
+
+
+# Created at 2019-05-16T12:35:04.229
+Unexpected IOException with stream: Sent sample message [Usuario{id=5fe77753-6a07-478a-b676-a4c041014b63, nombre=Ada Parker Sr., ciudad=Bechtelarton, pais=Chad}]
+
+
+# Created at 2019-05-16T12:35:04.331
+Unexpected IOException with stream: Sent sample message [Usuario{id=32b50cb3-cdae-4d65-8e46-3d0b4884803f, nombre=Helen Hammes, ciudad=Kiehnton, pais=Mauritania}]
+
+
+# Created at 2019-05-16T12:35:04.433
+Unexpected IOException with stream: Sent sample message [Usuario{id=79a7ad07-3740-41b7-b487-46c024a7c868, nombre=Angie Fisher, ciudad=Trompborough, pais=Myanmar}]
+
+
+# Created at 2019-05-16T12:35:04.536
+Unexpected IOException with stream: Sent sample message [Usuario{id=4db6077a-3d1d-4d66-bec5-ec8e7701c3c1, nombre=Dawson Rempel, ciudad=Amyfurt, pais=Cook Islands}]
+
+
+# Created at 2019-05-16T12:35:04.637
+Unexpected IOException with stream: Sent sample message [Usuario{id=0f0fb57a-cff2-4dfb-a19a-b8d0b33a865e, nombre=Nico Cummings, ciudad=North Walkerhaven, pais=Vietnam}]
+
+
+# Created at 2019-05-16T12:35:04.738
+Unexpected IOException with stream: Sent sample message [Usuario{id=a1ff3153-26ee-47a1-8e03-e3f16733112c, nombre=Guadalupe Nicolas, ciudad=Lempiville, pais=Marshall Islands}]
+
+
+# Created at 2019-05-16T12:35:04.840
+Unexpected IOException with stream: Sent sample message [Usuario{id=b95dfd8b-b8d8-4d1a-b2f2-0d3274f37625, nombre=Sim Ward, ciudad=South Jeradtown, pais=Burkina Faso}]
+
+
+# Created at 2019-05-16T12:35:04.942
+Unexpected IOException with stream: Sent sample message [Usuario{id=2785e1ff-0b5a-4038-8166-6bf5bc659f86, nombre=Wayne Champlin, ciudad=Port Libbieberg, pais=Central African Republic}]
+
+
+# Created at 2019-05-16T12:35:05.044
+Unexpected IOException with stream: Sent sample message [Usuario{id=ae01ebaf-2fec-4377-afa4-74603b41dedd, nombre=Mathilde Ruecker, ciudad=Karenport, pais=Guernsey}]
+
+
+# Created at 2019-05-16T12:35:05.157
+Unexpected IOException with stream: Sent sample message [Usuario{id=78b59e7a-aa6b-4e54-8568-3f58609c197b, nombre=Brennon Walter, ciudad=Martinshire, pais=Tonga}]
+
+
+# Created at 2019-05-16T12:35:05.261
+Unexpected IOException with stream: Sent sample message [Usuario{id=d2d6ed52-0587-4f2e-970e-551886e6f1bc, nombre=Casandra Glover, ciudad=Raheemmouth, pais=Cyprus}]
+
+
+# Created at 2019-05-16T12:35:05.362
+Unexpected IOException with stream: Sent sample message [Usuario{id=db7e7f52-2a38-4095-98f9-cee3a31c3486, nombre=Norene Smitham, ciudad=Adeleburgh, pais=Greece}]
+
+
+# Created at 2019-05-16T12:35:05.464
+Unexpected IOException with stream: Sent sample message [Usuario{id=54c999e1-e76e-4ada-857f-25941e3cc159, nombre=Eino Blick, ciudad=West Ernesto, pais=Azerbaijan}]
+
+
+# Created at 2019-05-16T12:35:05.565
+Unexpected IOException with stream: Sent sample message [Usuario{id=a49b1d09-0ded-425d-b013-9131af23e74d, nombre=Violette Bogan, ciudad=Port Ines, pais=Burkina Faso}]
+
+
+# Created at 2019-05-16T12:35:05.668
+Unexpected IOException with stream: Sent sample message [Usuario{id=754de2cb-3acd-414b-a979-27bec5e6af44, nombre=Reginald Kuhic, ciudad=Port Vinnieside, pais=Qatar}]
+
+
+# Created at 2019-05-16T12:35:05.771
+Unexpected IOException with stream: Sent sample message [Usuario{id=6bca0a36-a51a-4ff1-a7e2-1d727ae8d3a0, nombre=Tanya Gaylord, ciudad=Wehnerview, pais=Guinea-Bissau}]
+
+
+# Created at 2019-05-16T12:35:05.871
+Unexpected IOException with stream: Sent sample message [Usuario{id=1435461b-9ce4-452a-aa10-5143dee2b375, nombre=Andre Conroy, ciudad=Titotown, pais=Pakistan}]
+
+
+# Created at 2019-05-16T12:35:05.973
+Unexpected IOException with stream: Sent sample message [Usuario{id=7d430dcc-5ad5-4522-859a-fe0e6a900b7c, nombre=Dr. Nelle Ledner, ciudad=Lake Lorenza, pais=Anguilla}]
+
+
+# Created at 2019-05-16T12:35:06.079
+Unexpected IOException with stream: Sent sample message [Usuario{id=914a3de0-68c1-48eb-8eba-ac9dadb9fc1f, nombre=Reagan Buckridge III, ciudad=Lake Aubree, pais=Kyrgyz Republic}]
+
+
+# Created at 2019-05-16T12:35:06.189
+Unexpected IOException with stream: Sent sample message [Usuario{id=70b9939a-c89c-4900-91df-0d94d1734a88, nombre=Hardy Dickinson, ciudad=South Carole, pais=Namibia}]
+
+
+# Created at 2019-05-16T12:35:06.345
+Unexpected IOException with stream: Sent sample message [Usuario{id=386358a4-8855-4c18-85a8-2d7d9440f70e, nombre=Genoveva Osinski, ciudad=Bradchester, pais=Uruguay}]
+
+
+# Created at 2019-05-16T12:35:06.454
+Unexpected IOException with stream: Sent sample message [Usuario{id=65a4d5e6-ffbb-461a-9f7f-055934a921ad, nombre=Claire Farrell, ciudad=Gideonberg, pais=Azerbaijan}]
+
+
+# Created at 2019-05-16T12:35:06.564
+Unexpected IOException with stream: Sent sample message [Usuario{id=aeaa542c-7534-42d8-a5ed-51e72162237d, nombre=Mr. Jamil Anderson, ciudad=Tombury, pais=Cape Verde}]
+
+
+# Created at 2019-05-16T12:35:06.673
+Unexpected IOException with stream: Sent sample message [Usuario{id=d2c10d1f-48a0-416b-9413-2ddf2ab34184, nombre=Richie O'Conner DVM, ciudad=West Danaborough, pais=Bosnia and Herzegovina}]
+
+
+# Created at 2019-05-16T12:35:06.798
+Unexpected IOException with stream: Sent sample message [Usuario{id=a7dd3e89-5cbe-4f29-a583-c265407ed71a, nombre=Maudie Huels, ciudad=Wittingfurt, pais=Indonesia}]
+
+
+# Created at 2019-05-16T12:35:06.899
+Unexpected IOException with stream: Sent sample message [Usuario{id=918ed944-b48c-44c3-90a0-b35c4b392c7c, nombre=Colby Cormier, ciudad=North Marquis, pais=Australia}]
+
+
+# Created at 2019-05-16T12:35:07.001
+Unexpected IOException with stream: Sent sample message [Usuario{id=7bdae989-f17c-47de-835c-8474ac3c007d, nombre=Ms. Verla Kuhic, ciudad=Everettborough, pais=Uruguay}]
+
+
+# Created at 2019-05-16T12:35:07.102
+Unexpected IOException with stream: Sent sample message [Usuario{id=fb084e55-af0c-42dc-b8e4-9e2ded4e4e4a, nombre=Devyn Pfeffer, ciudad=Marianneview, pais=Myanmar}]
+
+
+# Created at 2019-05-16T12:35:07.207
+Unexpected IOException with stream: Sent sample message [Usuario{id=51541650-a8fb-4d74-b0a4-1f62cfed8e56, nombre=Mandy Krajcik, ciudad=Stammmouth, pais=San Marino}]
+
+
+# Created at 2019-05-16T12:35:07.319
+Unexpected IOException with stream: Sent sample message [Usuario{id=652d1050-2570-40b7-aa99-17f091322da1, nombre=Jeffery Wilderman, ciudad=East Maverickville, pais=Liberia}]
+
+
+# Created at 2019-05-16T12:35:07.422
+Unexpected IOException with stream: Sent sample message [Usuario{id=ab918d44-6f7c-4dee-ad35-b0a0ceddfec6, nombre=Tierra Smitham, ciudad=North Cheyanne, pais=Mali}]
+
+
+# Created at 2019-05-16T12:35:07.523
+Unexpected IOException with stream: Sent sample message [Usuario{id=7e813771-a5ba-4268-bcf6-7621d543d940, nombre=Calista Rosenbaum, ciudad=Lake Brennanhaven, pais=Cyprus}]
+
+
+# Created at 2019-05-16T12:35:07.628
+Unexpected IOException with stream: Sent sample message [Usuario{id=d4009712-884b-4c51-a1d0-993a989061f7, nombre=Clementine Rempel, ciudad=East Clark, pais=Saint Helena}]
+
+
+# Created at 2019-05-16T12:35:07.729
+Unexpected IOException with stream: Sent sample message [Usuario{id=b31d8b29-a75b-4772-be31-7e9b0fa9272d, nombre=Ms. Fleta Murazik, ciudad=Funkmouth, pais=Azerbaijan}]
+
+
+# Created at 2019-05-16T12:35:07.832
+Unexpected IOException with stream: Sent sample message [Usuario{id=0b2a353b-c18e-4fb9-86b3-e6a0bbb344f9, nombre=Mrs. Leonard Funk, ciudad=East Gustaveton, pais=Haiti}]
+
+
+# Created at 2019-05-16T12:35:07.933
+Unexpected IOException with stream: Sent sample message [Usuario{id=6d8c8966-b3e2-4a3b-84cd-1de21de04864, nombre=Clotilde Wiegand, ciudad=West Genesis, pais=Cayman Islands}]
+
+
+# Created at 2019-05-16T12:35:08.036
+Unexpected IOException with stream: Sent sample message [Usuario{id=08c867bf-33ad-410b-8b57-c68161aab20c, nombre=Celia Waelchi, ciudad=South Jacynthebury, pais=French Polynesia}]
+
+
+# Created at 2019-05-16T12:35:08.137
+Unexpected IOException with stream: Sent sample message [Usuario{id=6597e234-58c2-4135-8922-682e71edd111, nombre=Larry Johnson, ciudad=West Dollyview, pais=Paraguay}]
+
+
+# Created at 2019-05-16T12:35:08.238
+Unexpected IOException with stream: Sent sample message [Usuario{id=1eafc388-bd89-4471-a1d6-d1dd99baf343, nombre=Jordy Hauck, ciudad=New Coyside, pais=Jordan}]
+
+
+# Created at 2019-05-16T12:35:08.338
+Unexpected IOException with stream: Sent sample message [Usuario{id=b0bd0b1b-fc7f-4725-92fb-24c9922b4fdc, nombre=Jarret Lynch, ciudad=Katelynland, pais=Saint Pierre and Miquelon}]
+
+
+# Created at 2019-05-16T12:35:08.440
+Unexpected IOException with stream: Sent sample message [Usuario{id=61036a0c-1d0c-4941-a48c-ecdc7d2a5f3f, nombre=Johnnie Streich III, ciudad=New Ludie, pais=Kiribati}]
+
+
+# Created at 2019-05-16T12:35:08.542
+Unexpected IOException with stream: Sent sample message [Usuario{id=d7e8240c-ec32-404a-9022-1fae07cad3f9, nombre=Ms. Cortez DuBuque, ciudad=Daughertyfort, pais=Heard Island and McDonald Islands}]
+
+
+# Created at 2019-05-16T12:35:08.643
+Unexpected IOException with stream: Sent sample message [Usuario{id=ead7ff50-ffe5-4ba7-9022-5ab1ebc572f9, nombre=Mozelle Abshire, ciudad=East Marquistown, pais=Algeria}]
+
+
+# Created at 2019-05-16T12:35:08.745
+Unexpected IOException with stream: Sent sample message [Usuario{id=b3ebc2e0-cd8e-43bf-8270-d84900794fa2, nombre=Mr. Icie Becker, ciudad=Sanfordland, pais=Saint Kitts and Nevis}]
+
+
+# Created at 2019-05-16T12:35:08.846
+Unexpected IOException with stream: Sent sample message [Usuario{id=5e175030-9a7e-4860-bafe-80f263e1e070, nombre=Heloise Stanton, ciudad=Kalebfurt, pais=Peru}]
+
+
+# Created at 2019-05-16T12:35:08.948
+Unexpected IOException with stream: Sent sample message [Usuario{id=687bf26e-a68e-49c3-9441-ae6342e39964, nombre=Jackie Gorczany DDS, ciudad=East Adaport, pais=Ukraine}]
+
+
+# Created at 2019-05-16T12:35:09.051
+Unexpected IOException with stream: Sent sample message [Usuario{id=a8d7599b-0fe0-4d4c-8aae-1ed290288c37, nombre=Adolph Stiedemann, ciudad=Garryland, pais=Cyprus}]
+
+
+# Created at 2019-05-16T12:35:09.155
+Unexpected IOException with stream: Sent sample message [Usuario{id=533a8efb-783f-4332-89c8-d69ee4b010a1, nombre=Kiel Sanford, ciudad=Greenholtburgh, pais=Timor-Leste}]
+
+
+# Created at 2019-05-16T12:35:09.256
+Unexpected IOException with stream: Sent sample message [Usuario{id=a31feb57-84fe-4d7b-b1c9-32e914df2f48, nombre=Ivy Kuhlman, ciudad=Reingerbury, pais=Brazil}]
+
+
+# Created at 2019-05-16T12:35:09.357
+Unexpected IOException with stream: Sent sample message [Usuario{id=824faf4b-da17-4a1b-8f56-fef0c7d55df5, nombre=Mr. Wilburn Spinka, ciudad=Paulineberg, pais=United Arab Emirates}]
+
+
+# Created at 2019-05-16T12:35:09.460
+Unexpected IOException with stream: Sent sample message [Usuario{id=a2eb5f58-4fa9-45be-81b5-b03e1a6a751a, nombre=Davion Adams, ciudad=South Oliverchester, pais=Grenada}]
+
+
+# Created at 2019-05-16T12:35:09.562
+Unexpected IOException with stream: Sent sample message [Usuario{id=2eb99581-e3b1-4a06-a413-02d3434170e2, nombre=Willa Treutel V, ciudad=Schummborough, pais=Thailand}]
+
+
+# Created at 2019-05-16T12:35:09.662
+Unexpected IOException with stream: Sent sample message [Usuario{id=cadea571-ee4d-475f-b372-608e9b7b2119, nombre=Jada Funk, ciudad=Luettgenview, pais=Latvia}]
+
+
+# Created at 2019-05-16T12:35:09.763
+Unexpected IOException with stream: Sent sample message [Usuario{id=424987a9-c07c-4178-a22b-f2b169b4c8ed, nombre=Mrs. Gaston Hahn, ciudad=Babyburgh, pais=Wallis and Futuna}]
+
+
+# Created at 2019-05-16T12:35:09.864
+Unexpected IOException with stream: Sent sample message [Usuario{id=0e77d951-da0a-44ae-8a5d-7d324c094226, nombre=Abby Torp, ciudad=Hillltown, pais=Oman}]
+
+
+# Created at 2019-05-16T12:35:09.964
+Unexpected IOException with stream: Sent sample message [Usuario{id=db5b7643-2012-4911-a2fb-6d2581c335a5, nombre=Liliana Reichel, ciudad=Maynardtown, pais=Gabon}]
+
+
+# Created at 2019-05-16T12:35:10.065
+Unexpected IOException with stream: Sent sample message [Usuario{id=742ada15-3464-4c3c-bf0f-8f0ca05871a0, nombre=Troy Dooley, ciudad=Daisyberg, pais=Saint Barthelemy}]
+
+
+# Created at 2019-05-16T12:35:10.165
+Unexpected IOException with stream: Sent sample message [Usuario{id=b05c00de-3e69-4675-bba2-52f795491ef1, nombre=Raven Blick, ciudad=Gusmouth, pais=South Africa}]
+
+
+# Created at 2019-05-16T12:35:10.265
+Unexpected IOException with stream: Sent sample message [Usuario{id=0d6dca55-578a-42f7-bef2-858e47e02ac9, nombre=Mrs. Ella Graham, ciudad=East Irma, pais=Brazil}]
+
+
+# Created at 2019-05-16T12:35:10.368
+Unexpected IOException with stream: Sent sample message [Usuario{id=5e7dc53f-dfe0-465a-9357-12c8757dead7, nombre=Elenora Roberts, ciudad=Marquardtfort, pais=Uruguay}]
+
+
+# Created at 2019-05-16T12:35:10.471
+Unexpected IOException with stream: Sent sample message [Usuario{id=22d28a10-f719-40c1-99c5-2ee3cc57985a, nombre=Xavier Dicki, ciudad=Port Bethmouth, pais=Belize}]
+
+
+# Created at 2019-05-16T12:35:10.574
+Unexpected IOException with stream: Sent sample message [Usuario{id=2be888be-dc7a-4e90-8529-ae7f0ad156f4, nombre=Janae Nitzsche, ciudad=Larsonburgh, pais=Trinidad and Tobago}]
+
+
+# Created at 2019-05-16T12:35:10.674
+Unexpected IOException with stream: Sent sample message [Usuario{id=032933ca-f077-4c00-8fc8-69e196b47bca, nombre=Dina Crona, ciudad=New Carmelo, pais=Bouvet Island (Bouvetoya)}]
+
+
+# Created at 2019-05-16T12:35:10.776
+Unexpected IOException with stream: Sent sample message [Usuario{id=6facc9e4-0d7e-4cd0-97a4-9966fea85ad3, nombre=Wilson Thiel, ciudad=Towneberg, pais=Dominica}]
+
+
+# Created at 2019-05-16T12:35:10.877
+Unexpected IOException with stream: Sent sample message [Usuario{id=3d80c919-40a2-4af0-81e9-7f593bbb99bf, nombre=Mrs. Arden Robel, ciudad=Aniyachester, pais=China}]
+
+
+# Created at 2019-05-16T12:35:10.995
+Unexpected IOException with stream: Sent sample message [Usuario{id=187807b6-9f45-478e-98c3-b8fdcc4cbdaa, nombre=Mr. Lavina Heidenreich, ciudad=Lednermouth, pais=Luxembourg}]
+
+
+# Created at 2019-05-16T12:35:11.123
+Unexpected IOException with stream: Sent sample message [Usuario{id=f5ea1fa0-d24b-4260-acdb-74e26e0a1128, nombre=Edna Rippin, ciudad=West Eda, pais=Vanuatu}]
+
+
+# Created at 2019-05-16T12:35:11.223
+Unexpected IOException with stream: Sent sample message [Usuario{id=68308fb6-04c0-4d61-91b6-e9157c294d02, nombre=Lorenz Runolfsson, ciudad=North Thadport, pais=Armenia}]
+
+
+# Created at 2019-05-16T12:35:11.324
+Unexpected IOException with stream: Sent sample message [Usuario{id=b18192c7-28a7-4164-92a2-c0e08df14af1, nombre=Ms. Effie Tromp, ciudad=Lake Jovannyshire, pais=Poland}]
+
+
+# Created at 2019-05-16T12:35:11.424
+Unexpected IOException with stream: Sent sample message [Usuario{id=471d147e-b7ce-47f6-a723-e05963f38bff, nombre=Levi Christiansen, ciudad=Lake Immanuelside, pais=Portugal}]
+
+
+# Created at 2019-05-16T12:35:11.525
+Unexpected IOException with stream: Sent sample message [Usuario{id=d7ee85b2-bdd7-4a2a-abf8-be2acb2c3e92, nombre=Waldo White, ciudad=Raeside, pais=Samoa}]
+
+
+# Created at 2019-05-16T12:35:11.627
+Unexpected IOException with stream: Sent sample message [Usuario{id=64414656-68fa-45ae-8545-82b7a9393e58, nombre=Helmer Roob, ciudad=Strackeside, pais=Hungary}]
+
+
+# Created at 2019-05-16T12:35:11.729
+Unexpected IOException with stream: Sent sample message [Usuario{id=bf694348-2336-4fe0-b5ea-a5deb2fcc9a8, nombre=Verlie Daugherty, ciudad=South Aliyah, pais=Cayman Islands}]
+
+
+# Created at 2019-05-16T12:35:11.831
+Unexpected IOException with stream: Sent sample message [Usuario{id=3fa8ff58-ad62-424f-b0c3-70e6e900075e, nombre=Sister McKenzie, ciudad=Lake Deondreshire, pais=Ecuador}]
+
+
+# Created at 2019-05-16T12:35:11.935
+Unexpected IOException with stream: Sent sample message [Usuario{id=6d61a96e-6fe1-490b-a043-439eeae9fefd, nombre=Johnnie Emmerich II, ciudad=Leuschkeburgh, pais=French Polynesia}]
+
+
+# Created at 2019-05-16T12:35:12.036
+Unexpected IOException with stream: Sent sample message [Usuario{id=ec1d4e1e-7e24-44f8-8157-9fbe8847c5d4, nombre=Alexander Shanahan, ciudad=East Kirstinland, pais=Canada}]
+
+
+# Created at 2019-05-16T12:35:12.138
+Unexpected IOException with stream: Sent sample message [Usuario{id=53be8e34-fca1-4a24-bfcd-945535ea2f1f, nombre=Camilla Hand, ciudad=South Florida, pais=Lesotho}]
+
+
+# Created at 2019-05-16T12:35:12.238
+Unexpected IOException with stream: Sent sample message [Usuario{id=4c082251-cb99-40fc-8645-7335f5e69a34, nombre=Phoebe Wehner DVM, ciudad=South Darrel, pais=Togo}]
+
+
+# Created at 2019-05-16T12:35:12.341
+Unexpected IOException with stream: Sent sample message [Usuario{id=663fed6b-d6e5-4941-849b-5064c250108a, nombre=Mr. Lauriane Schneider, ciudad=Kanechester, pais=Moldova}]
+
+
+# Created at 2019-05-16T12:35:12.445
+Unexpected IOException with stream: Sent sample message [Usuario{id=08b96266-af64-4998-8def-342ce93cb512, nombre=Letitia Runte, ciudad=East Kalebchester, pais=Ghana}]
+
+
+# Created at 2019-05-16T12:35:12.546
+Unexpected IOException with stream: Sent sample message [Usuario{id=d79e2725-3bc7-46f7-a37c-b1e2f18618fc, nombre=Annamae Thompson IV, ciudad=Greenholtside, pais=Nauru}]
+
+
+# Created at 2019-05-16T12:35:12.648
+Unexpected IOException with stream: Sent sample message [Usuario{id=df75e971-1e8e-4226-a597-b527d97548d9, nombre=Ashleigh Kris DVM, ciudad=East Jannieton, pais=Suriname}]
+
+
+# Created at 2019-05-16T12:35:12.749
+Unexpected IOException with stream: Sent sample message [Usuario{id=47b5ccb5-297c-46ec-8d33-3a37de8994aa, nombre=Krystel Ruecker II, ciudad=Lake Paristown, pais=Argentina}]
+
+
+# Created at 2019-05-16T12:35:12.849
+Unexpected IOException with stream: Sent sample message [Usuario{id=7d9ff251-1701-42d4-9a74-62d01c70d776, nombre=Brycen Lesch, ciudad=Bryanaland, pais=Nigeria}]
+
+
+# Created at 2019-05-16T12:35:12.952
+Unexpected IOException with stream: Sent sample message [Usuario{id=35adfaec-0511-4cb4-a652-022af8f0a99f, nombre=Ms. Fritz Bradtke, ciudad=South Mollyborough, pais=Slovenia}]
+
+
+# Created at 2019-05-16T12:35:13.055
+Unexpected IOException with stream: Sent sample message [Usuario{id=b9b689af-7cae-420c-8228-f97d8b4fc17f, nombre=Willie Wyman, ciudad=Laurenchester, pais=Myanmar}]
+
+
+# Created at 2019-05-16T12:35:13.157
+Unexpected IOException with stream: Sent sample message [Usuario{id=239b1fe3-c236-4eec-9090-8af241274b56, nombre=Lane Padberg, ciudad=North Darby, pais=Taiwan}]
+
+
+# Created at 2019-05-16T12:35:13.259
+Unexpected IOException with stream: Sent sample message [Usuario{id=9fae4069-b068-410d-828f-76a2c096cc8f, nombre=Jacques Zemlak, ciudad=Rutherfordside, pais=Benin}]
+
+
+# Created at 2019-05-16T12:35:13.365
+Unexpected IOException with stream: Sent sample message [Usuario{id=f41e62ac-8ca0-4fc6-a526-b27a91fe29f1, nombre=Miss Willa Hilll, ciudad=New Meda, pais=United States Minor Outlying Islands}]
+
+
+# Created at 2019-05-16T12:35:13.465
+Unexpected IOException with stream: Sent sample message [Usuario{id=043eb6fa-983d-4e8b-a5e6-546261adbc3f, nombre=Demarco Denesik DVM, ciudad=North Seth, pais=Djibouti}]
+
+
+# Created at 2019-05-16T12:35:13.566
+Unexpected IOException with stream: Sent sample message [Usuario{id=b1c8fea0-d9d0-4a22-8069-97f9c645508a, nombre=Bette Rohan IV, ciudad=Port Delilahland, pais=Netherlands}]
+
+
+# Created at 2019-05-16T12:35:13.668
+Unexpected IOException with stream: Sent sample message [Usuario{id=8ebe3e4b-6fc1-466d-8cda-46afd3418c99, nombre=Ms. Dee Gislason, ciudad=North Burley, pais=Kuwait}]
+
+
+# Created at 2019-05-16T12:35:13.771
+Unexpected IOException with stream: Sent sample message [Usuario{id=8dc9df04-2684-4d97-b331-134225aec791, nombre=Nina Gusikowski, ciudad=Timmothyfurt, pais=French Guiana}]
+
+
+# Created at 2019-05-16T12:35:13.883
+Unexpected IOException with stream: Sent sample message [Usuario{id=fbc0b3f4-3f1b-4e2b-9290-2af9fc191f69, nombre=Millie Bashirian, ciudad=New Roslynburgh, pais=Iraq}]
+
+
+# Created at 2019-05-16T12:35:13.992
+Unexpected IOException with stream: Sent sample message [Usuario{id=8cd0ea68-5daa-4082-a3a1-5d6533a6a390, nombre=Dax McGlynn, ciudad=Mayertside, pais=Monaco}]
+
+
+# Created at 2019-05-16T12:35:14.101
+Unexpected IOException with stream: Sent sample message [Usuario{id=eb21cb36-dc5b-42da-a616-aa6274370f57, nombre=Violet Dickens, ciudad=West Ted, pais=Netherlands Antilles}]
+
+
+# Created at 2019-05-16T12:35:14.211
+Unexpected IOException with stream: Sent sample message [Usuario{id=ce961d2f-7c69-4c87-9861-76203cb5d216, nombre=Osbaldo Dach MD, ciudad=West Shakira, pais=Niue}]
+
+
+# Created at 2019-05-16T12:35:14.336
+Unexpected IOException with stream: Sent sample message [Usuario{id=b4846159-365f-4cfa-b7e8-9be3e4d530c1, nombre=Miss Amelia Gorczany, ciudad=South Isabelberg, pais=Bermuda}]
+
+
+# Created at 2019-05-16T12:35:14.445
+Unexpected IOException with stream: Sent sample message [Usuario{id=870ca3b0-4626-4ad8-a4ef-70078d4b9b9f, nombre=Natasha Simonis, ciudad=New Monica, pais=Costa Rica}]
+
+
+# Created at 2019-05-16T12:35:14.555
+Unexpected IOException with stream: Sent sample message [Usuario{id=efc56d3b-3ec5-4b5d-9310-edaf70c53d6f, nombre=Carter Abbott, ciudad=Clareview, pais=Canada}]
+
+
+# Created at 2019-05-16T12:35:14.664
+Unexpected IOException with stream: Sent sample message [Usuario{id=3a7fa6ea-51b9-4f48-a2be-2e91c787027b, nombre=Oma Barton PhD, ciudad=Langworthmouth, pais=Saint Lucia}]
+
+
+# Created at 2019-05-16T12:35:14.773
+Unexpected IOException with stream: Sent sample message [Usuario{id=abe8b7c2-85ff-4e2c-95e9-61d0f21d3b95, nombre=Bernard Satterfield II, ciudad=Port Sage, pais=Greece}]
+
+
+# Created at 2019-05-16T12:35:14.883
+Unexpected IOException with stream: Sent sample message [Usuario{id=a97417c7-421c-444c-9e09-037039a4f242, nombre=Nikko Gottlieb, ciudad=Ferrymouth, pais=Cuba}]
+
+
+# Created at 2019-05-16T12:35:14.992
+Unexpected IOException with stream: Sent sample message [Usuario{id=a1d2f249-d1fc-4200-8a33-52f96c557bd1, nombre=Rose Barton, ciudad=North Cara, pais=Dominica}]
+
+
+# Created at 2019-05-16T12:35:15.117
+Unexpected IOException with stream: Sent sample message [Usuario{id=51a85098-d42c-4e85-bdbf-245e22f8a617, nombre=Connor Homenick DDS, ciudad=South Maureenland, pais=Macao}]
+
+
+# Created at 2019-05-16T12:35:15.226
+Unexpected IOException with stream: Sent sample message [Usuario{id=9f9e2e83-1a47-44b9-b0e2-1beb6a242926, nombre=Birdie McLaughlin, ciudad=Davinberg, pais=Mayotte}]
+
+
+# Created at 2019-05-16T12:35:15.336
+Unexpected IOException with stream: Sent sample message [Usuario{id=9fac670f-4a5b-4ab6-a84b-454b2bd85eca, nombre=Luz Lehner, ciudad=New Yasmeenborough, pais=Norway}]
+
+
+# Created at 2019-05-16T12:35:15.445
+Unexpected IOException with stream: 2019-05-16 12:35:15.445  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.
+
+
+# Created at 2019-05-16T12:35:15.445
+Unexpected IOException with stream: Sent sample message [Usuario{id=f8c1c4c4-80a5-4dc2-bc87-6603670c711f, nombre=Mr. Dean Reynolds, ciudad=Nitzschetown, pais=Western Sahara}]
+
+
+# Created at 2019-05-16T12:35:15.555
+Unexpected IOException with stream: Sent sample message [Usuario{id=ec2d16ad-e783-443d-bb4d-6a6dc0def5f6, nombre=Tatum Doyle, ciudad=New Tyrel, pais=Afghanistan}]
+
+
+# Created at 2019-05-16T12:35:15.664
+Unexpected IOException with stream: Sent sample message [Usuario{id=fa97e7d0-bfec-4c01-9d5b-ab1baed46879, nombre=Maryam Buckridge, ciudad=Marcellestad, pais=Myanmar}]
+
+
+# Created at 2019-05-16T12:35:15.773
+Unexpected IOException with stream: Sent sample message [Usuario{id=b6eee1f2-a282-4f38-9ea9-bdb0eb0ce5c9, nombre=Christian Wintheiser, ciudad=Cristfurt, pais=Senegal}]
+
+
+# Created at 2019-05-16T12:35:15.883
+Unexpected IOException with stream: Sent sample message [Usuario{id=0960efbc-9079-4c87-b510-8b6733512c30, nombre=Kailyn Walsh, ciudad=Port Clotildeburgh, pais=China}]
+
+
+# Created at 2019-05-16T12:35:15.992
+Unexpected IOException with stream: Sent sample message [Usuario{id=b57dcdf0-29a3-46d7-af16-bc6cc5cc430e, nombre=Edison Rogahn, ciudad=Gustland, pais=Cambodia}]
+
+
+# Created at 2019-05-16T12:35:16.133
+Unexpected IOException with stream: Sent sample message [Usuario{id=32e5d0a1-1ead-4a0d-b007-d5c5ae0cfcf2, nombre=Stephan Eichmann, ciudad=Port Zoila, pais=Chad}]
+
+
+# Created at 2019-05-16T12:35:16.242
+Unexpected IOException with stream: Sent sample message [Usuario{id=aa2cf6f2-a69e-47f7-98e4-caf75efc6add, nombre=Dr. Wava Batz, ciudad=South Ricardo, pais=Morocco}]
+
+
+# Created at 2019-05-16T12:35:16.351
+Unexpected IOException with stream: Sent sample message [Usuario{id=ecf1337a-78f4-4470-aa2d-c94938354bb1, nombre=Stanley Zieme, ciudad=Ryderbury, pais=Virgin Islands, British}]
+
+
+# Created at 2019-05-16T12:35:16.461
+Unexpected IOException with stream: Sent sample message [Usuario{id=3363bdf9-c285-428a-a77a-a16cbc26d4db, nombre=Nicola McKenzie, ciudad=West Sylvia, pais=Nepal}]
+
+
+# Created at 2019-05-16T12:35:16.555
+Unexpected IOException with stream: 2019-05-16 12:35:16.555  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.
+
+
+# Created at 2019-05-16T12:35:16.570
+Unexpected IOException with stream: Sent sample message [Usuario{id=5411816e-86d3-4c6b-9737-b32ab1c5cfc6, nombre=Mr. Scot Ruecker, ciudad=Port Jaidatown, pais=Antigua and Barbuda}]
+
+
+# Created at 2019-05-16T12:35:16.680
+Unexpected IOException with stream: Sent sample message [Usuario{id=b111e1db-1d74-47cc-b86b-8c74ce16c3e6, nombre=Zoe Waelchi, ciudad=Port Earnest, pais=Eritrea}]
+
+
+# Created at 2019-05-16T12:35:16.789
+Unexpected IOException with stream: Sent sample message [Usuario{id=07daf9b2-5eee-4785-9d17-ea846a94d483, nombre=Makayla Leffler, ciudad=Hicklebury, pais=Botswana}]
+
+
+# Created at 2019-05-16T12:35:16.898
+Unexpected IOException with stream: Sent sample message [Usuario{id=91f010bf-2642-48c2-bdc5-709ca2e007e2, nombre=Mr. Domenick Eichmann, ciudad=Gaylordchester, pais=Benin}]
+
+
+# Created at 2019-05-16T12:35:17.008
+Unexpected IOException with stream: Sent sample message [Usuario{id=a22533bf-a756-43b1-9d34-ef8da4680338, nombre=Claudine Hahn IV, ciudad=Johnstontown, pais=Isle of Man}]
+
+
+# Created at 2019-05-16T12:35:17.117
+Unexpected IOException with stream: Sent sample message [Usuario{id=25f23774-a66a-424a-950b-e5b17c685ab2, nombre=Bertrand O'Kon, ciudad=East Rorytown, pais=Montserrat}]
+
+
+# Created at 2019-05-16T12:35:17.227
+Unexpected IOException with stream: Sent sample message [Usuario{id=0314a4be-107f-43f6-a399-caab64551c9f, nombre=Ms. Luz Hammes, ciudad=South Agustin, pais=Saudi Arabia}]
+
+
+# Created at 2019-05-16T12:35:17.336
+Unexpected IOException with stream: Sent sample message [Usuario{id=19be2a03-e761-4680-886b-e88230907af9, nombre=Leland Turcotte DVM, ciudad=Cleoraside, pais=Latvia}]
+
+
+# Created at 2019-05-16T12:35:17.445
+Unexpected IOException with stream: Sent sample message [Usuario{id=910d33d6-9c24-45f4-85cc-f93bdc2944ac, nombre=Dr. Lilliana Buckridge, ciudad=Klingfort, pais=Gabon}]
+
+
+# Created at 2019-05-16T12:35:17.555
+Unexpected IOException with stream: Sent sample message [Usuario{id=5becbac0-1122-43d7-9889-373e326cf9f7, nombre=Annetta Watsica, ciudad=Sabrinashire, pais=Cook Islands}]
+
+
+# Created at 2019-05-16T12:35:17.664
+Unexpected IOException with stream: Sent sample message [Usuario{id=0169416d-d39a-49fe-8661-9d9993045863, nombre=Tyrell Greenfelder, ciudad=West Ryleehaven, pais=Guinea-Bissau}]
+
+
+# Created at 2019-05-16T12:35:17.773
+Unexpected IOException with stream: Sent sample message [Usuario{id=55038b2f-b564-451e-a828-0e49724ec7fc, nombre=Bailee Barrows, ciudad=Marcosstad, pais=United States of America}]
+
+
+# Created at 2019-05-16T12:35:17.789
+Unexpected IOException with stream: 2019-05-16 12:35:17.789  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.
+
+
+# Created at 2019-05-16T12:35:17.883
+Unexpected IOException with stream: Sent sample message [Usuario{id=3acb3389-6add-42b1-9118-5edaabea28f1, nombre=Graham Walter, ciudad=Schmittfort, pais=Sri Lanka}]
+
+
+# Created at 2019-05-16T12:35:17.992
+Unexpected IOException with stream: Sent sample message [Usuario{id=19b138f7-62ba-4d8f-8678-d5ed8aec355a, nombre=Mr. Glen Hodkiewicz, ciudad=New Alivia, pais=Nicaragua}]
+
+
+# Created at 2019-05-16T12:35:18.102
+Unexpected IOException with stream: Sent sample message [Usuario{id=939b9642-f51c-44d4-bd0d-2db77e3e146d, nombre=Martine Trantow, ciudad=Predovicchester, pais=Panama}]
+
+
+# Created at 2019-05-16T12:35:18.211
+Unexpected IOException with stream: Sent sample message [Usuario{id=2ddb396f-4ee0-433c-9f41-36c8b70f2361, nombre=Mr. Sonny O'Hara, ciudad=New Clotildehaven, pais=Philippines}]
+
+
+# Created at 2019-05-16T12:35:18.320
+Unexpected IOException with stream: Sent sample message [Usuario{id=5fb8dd40-0064-4ae5-b0db-e82719917ca3, nombre=Eliezer Carroll, ciudad=West Jonasfort, pais=Denmark}]
+
+
+# Created at 2019-05-16T12:35:18.430
+Unexpected IOException with stream: Sent sample message [Usuario{id=e0d18a91-9aee-4824-9a70-b5620667922d, nombre=Theodora Wolf PhD, ciudad=North Gustave, pais=Bahamas}]
+
+
+# Created at 2019-05-16T12:35:18.539
+Unexpected IOException with stream: Sent sample message [Usuario{id=2385903b-d6b7-46d0-84b6-8bc8ca751d93, nombre=Bulah Beatty, ciudad=Mosciskimouth, pais=Lesotho}]
+
+
+# Created at 2019-05-16T12:35:18.648
+Unexpected IOException with stream: Sent sample message [Usuario{id=29774fb6-7353-45a8-885c-0b011b4743eb, nombre=Ava Monahan, ciudad=Osinskibury, pais=Maldives}]
+
+
+# Created at 2019-05-16T12:35:18.758
+Unexpected IOException with stream: Sent sample message [Usuario{id=ea6b5ecf-383e-4ac8-90f7-47ffc6a5eab2, nombre=Alverta Reynolds, ciudad=East Isomville, pais=Sudan}]
+
+
+# Created at 2019-05-16T12:35:18.867
+Unexpected IOException with stream: Sent sample message [Usuario{id=8834a0df-a858-459b-ac3f-07712840779a, nombre=Lazaro Klein, ciudad=New Euna, pais=Kazakhstan}]
+
+
+# Created at 2019-05-16T12:35:18.977
+Unexpected IOException with stream: Sent sample message [Usuario{id=a19d9f74-ebaa-40d2-aea6-314276d499e5, nombre=Jordy Keebler, ciudad=Kuhicmouth, pais=Burundi}]
+
+
+# Created at 2019-05-16T12:35:19.086
+Unexpected IOException with stream: Sent sample message [Usuario{id=275f6fa7-4852-474a-830d-eeecd056a36b, nombre=Ocie Morissette V, ciudad=Gleichnerside, pais=Jersey}]
+
+
+# Created at 2019-05-16T12:35:19.195
+Unexpected IOException with stream: Sent sample message [Usuario{id=09651afc-703a-4544-9031-795df714cdba, nombre=Loyce Quitzon, ciudad=Lake Cecil, pais=Taiwan}]
+
+
+# Created at 2019-05-16T12:35:19.273
+Unexpected IOException with stream: 2019-05-16 12:35:19.273  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.
+
+
+# Created at 2019-05-16T12:35:19.305
+Unexpected IOException with stream: Sent sample message [Usuario{id=fc2a8a0b-a52d-48c0-8cde-e64f7cd5f647, nombre=General Hartmann MD, ciudad=New Onaville, pais=Nauru}]
+
+
+# Created at 2019-05-16T12:35:19.414
+Unexpected IOException with stream: Sent sample message [Usuario{id=da166f5f-79ec-4946-81a3-33525da72430, nombre=Mollie Schiller, ciudad=West Cristianchester, pais=Niger}]
+
+
+# Created at 2019-05-16T12:35:19.524
+Unexpected IOException with stream: Sent sample message [Usuario{id=ec978c59-08c4-4562-896c-b45276fad4bd, nombre=Ms. Korbin Schinner, ciudad=Einoview, pais=Liberia}]
+
+
+# Created at 2019-05-16T12:35:19.633
+Unexpected IOException with stream: Sent sample message [Usuario{id=963e01c9-5af7-4ee2-a071-44cd80f55cec, nombre=Hollis Leannon, ciudad=Giovanichester, pais=Mauritania}]
+
+
+# Created at 2019-05-16T12:35:19.742
+Unexpected IOException with stream: Sent sample message [Usuario{id=009f9d41-5e42-47ee-98a9-322d5fe95dfc, nombre=Reilly Ondricka, ciudad=New Caleigh, pais=Indonesia}]
+
+
+# Created at 2019-05-16T12:35:19.852
+Unexpected IOException with stream: Sent sample message [Usuario{id=21627651-c6b5-41c3-9a42-a2576c77feee, nombre=Kamille Yost IV, ciudad=West Vernieton, pais=Switzerland}]
+
+
+# Created at 2019-05-16T12:35:19.961
+Unexpected IOException with stream: Sent sample message [Usuario{id=037946e2-7170-4eaf-ac55-e6b40c2811da, nombre=Savion Buckridge, ciudad=New Joannyville, pais=Romania}]
+
+
+# Created at 2019-05-16T12:35:20.070
+Unexpected IOException with stream: Sent sample message [Usuario{id=9b2ae31b-a47c-4f28-b800-1b3ce1376b78, nombre=Derek Barrows, ciudad=Port Glennie, pais=Nigeria}]
+
+
+# Created at 2019-05-16T12:35:20.180
+Unexpected IOException with stream: Sent sample message [Usuario{id=146b658c-268e-4c27-8a82-9335efcb48bc, nombre=Delbert Harber, ciudad=West Thea, pais=Antarctica (the territory South of 60 deg S)}]
+
+
+# Created at 2019-05-16T12:35:20.289
+Unexpected IOException with stream: Sent sample message [Usuario{id=f60669c6-2c75-4300-85a6-03040dad8315, nombre=Ashlynn Dach, ciudad=Concepcionland, pais=Ghana}]
+
+
+# Created at 2019-05-16T12:35:20.399
+Unexpected IOException with stream: Sent sample message [Usuario{id=b2c54398-9c94-494c-bced-d064315ab86e, nombre=Margarita Gibson PhD, ciudad=East Gina, pais=Peru}]
+
+
+# Created at 2019-05-16T12:35:20.508
+Unexpected IOException with stream: Sent sample message [Usuario{id=8860b450-cfa2-4723-91e9-fa2765b89e52, nombre=Zachery Streich, ciudad=Port Cordiaborough, pais=Sudan}]
+
+
+# Created at 2019-05-16T12:35:20.617
+Unexpected IOException with stream: Sent sample message [Usuario{id=3af475d9-eefa-4b36-ac71-05d7442fc4d5, nombre=Brown Franecki, ciudad=Bethelburgh, pais=Portugal}]
+
+
+# Created at 2019-05-16T12:35:20.727
+Unexpected IOException with stream: Sent sample message [Usuario{id=04f08d8a-b103-4b1d-bb01-6cf659456ae5, nombre=Jaclyn Jaskolski Jr., ciudad=New Pansy, pais=Jordan}]
+
+
+# Created at 2019-05-16T12:35:20.836
+Unexpected IOException with stream: Sent sample message [Usuario{id=e1b7582e-80f4-4bbc-8097-aec3dca69d9c, nombre=Miss Alysa Abernathy, ciudad=Weimannside, pais=Yemen}]
+
+
+# Created at 2019-05-16T12:35:20.945
+Unexpected IOException with stream: Sent sample message [Usuario{id=38368e5d-d616-4891-8792-f0ed7be3022c, nombre=Cornell Torp, ciudad=Mooremouth, pais=Democratic People's Republic of Korea}]
+
+
+# Created at 2019-05-16T12:35:21.055
+Unexpected IOException with stream: Sent sample message [Usuario{id=cc73f826-6a7e-4ba4-be5f-39450ca7f91b, nombre=Patsy Labadie, ciudad=Port Eliseo, pais=Falkland Islands (Malvinas)}]
+
+
+# Created at 2019-05-16T12:35:21.133
+Unexpected IOException with stream: 2019-05-16 12:35:21.133  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.
+
+
+# Created at 2019-05-16T12:35:21.164
+Unexpected IOException with stream: Sent sample message [Usuario{id=1d9c49a3-cb3a-46d8-b4b8-ad7a965eb58f, nombre=Keshaun Simonis, ciudad=Port Ludieport, pais=Northern Mariana Islands}]
+
+
+# Created at 2019-05-16T12:35:21.274
+Unexpected IOException with stream: Sent sample message [Usuario{id=3c6771dc-5550-4e78-8bba-eda3bf1f8e5f, nombre=Celine MacGyver, ciudad=South Eino, pais=Greece}]
+
+
+# Created at 2019-05-16T12:35:21.383
+Unexpected IOException with stream: Sent sample message [Usuario{id=a1e1e599-1284-46f7-9772-c069dca12b4c, nombre=Johnson Skiles, ciudad=Gavinburgh, pais=Ghana}]
+
+
+# Created at 2019-05-16T12:35:21.492
+Unexpected IOException with stream: Sent sample message [Usuario{id=8b15ad6f-9634-492f-b677-fc350a498362, nombre=Eleonore Jakubowski, ciudad=North Shaniya, pais=Saint Vincent and the Grenadines}]
+
+
+# Created at 2019-05-16T12:35:21.602
+Unexpected IOException with stream: Sent sample message [Usuario{id=28d3efad-8c10-4d1d-b869-6cdbc1daf276, nombre=Flossie Breitenberg, ciudad=Yesseniaview, pais=Niue}]
+
+
+# Created at 2019-05-16T12:35:21.711
+Unexpected IOException with stream: Sent sample message [Usuario{id=524f36a2-c7f2-467b-9155-9ae55afb3c07, nombre=Judge Koepp, ciudad=New Roger, pais=American Samoa}]
+
+
+# Created at 2019-05-16T12:35:21.820
+Unexpected IOException with stream: Sent sample message [Usuario{id=7f750333-651d-4cbd-a7ed-d6164c5e8b62, nombre=Ms. Lavern Bosco, ciudad=West Melodyfort, pais=Ethiopia}]
+
+
+# Created at 2019-05-16T12:35:21.930
+Unexpected IOException with stream: Sent sample message [Usuario{id=c46b0e2a-dca3-4d28-869c-0757205eb06c, nombre=Alanis Armstrong Sr., ciudad=New Keshawnbury, pais=Heard Island and McDonald Islands}]
+
+
+# Created at 2019-05-16T12:35:22.039
+Unexpected IOException with stream: Sent sample message [Usuario{id=cac9c346-07ae-481a-860f-25786f3932ae, nombre=Dorthy Gleason I, ciudad=Rutherfordland, pais=Isle of Man}]
+
+
+# Created at 2019-05-16T12:35:22.149
+Unexpected IOException with stream: Sent sample message [Usuario{id=941a71e3-6166-4d85-9de0-ccecb10069a5, nombre=Brian Goldner, ciudad=Efrainchester, pais=Ecuador}]
+
+
+# Created at 2019-05-16T12:35:22.258
+Unexpected IOException with stream: Sent sample message [Usuario{id=f2b88154-98e6-4691-b120-20631794eb46, nombre=Jayce Toy, ciudad=Lowellbury, pais=Saint Barthelemy}]
+
+
+# Created at 2019-05-16T12:35:22.367
+Unexpected IOException with stream: Sent sample message [Usuario{id=85be1c71-6dbf-45df-8c76-1e461cd6d67f, nombre=Benjamin Effertz, ciudad=West Kitty, pais=Swaziland}]
+
+
+# Created at 2019-05-16T12:35:22.477
+Unexpected IOException with stream: Sent sample message [Usuario{id=0b465a6e-4da9-4e58-8614-b9604ad0ba17, nombre=Thurman Jacobson, ciudad=Gastonport, pais=Liberia}]
+
+
+# Created at 2019-05-16T12:35:22.586
+Unexpected IOException with stream: Sent sample message [Usuario{id=7b05e4a0-0ff0-470f-968e-9aa0bee024c8, nombre=Allen Mayert, ciudad=Port Audreanne, pais=Liberia}]
+
+
+# Created at 2019-05-16T12:35:22.696
+Unexpected IOException with stream: Sent sample message [Usuario{id=a2a36332-e713-48b6-ad78-d7b6bdf00265, nombre=Jeremy D'Amore III, ciudad=Turnerville, pais=Congo}]
+
+
+# Created at 2019-05-16T12:35:22.805
+Unexpected IOException with stream: Sent sample message [Usuario{id=fa3c21ef-8785-4842-89d5-973ba1b1b9f3, nombre=Coralie Rippin, ciudad=Daltonmouth, pais=Saint Kitts and Nevis}]
+
+
+# Created at 2019-05-16T12:35:22.914
+Unexpected IOException with stream: Sent sample message [Usuario{id=6374e1be-b0b3-47b1-810d-a1ef65bd1122, nombre=Marc McLaughlin, ciudad=Casperberg, pais=Montserrat}]
+
+
+# Created at 2019-05-16T12:35:23.024
+Unexpected IOException with stream: Sent sample message [Usuario{id=ccd69c16-76c0-4a3a-9790-fb3c3f489907, nombre=Ms. Kamron Kautzer, ciudad=Lake Barbara, pais=Maldives}]
+
+
+# Created at 2019-05-16T12:35:23.039
+Unexpected IOException with stream: 2019-05-16 12:35:23.039  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.
+
+
+# Created at 2019-05-16T12:35:23.133
+Unexpected IOException with stream: Sent sample message [Usuario{id=6de7eaff-3815-4d3e-a164-403289b9be8d, nombre=Abdiel Fadel, ciudad=Myrastad, pais=Uzbekistan}]
+
+
+# Created at 2019-05-16T12:35:23.242
+Unexpected IOException with stream: Sent sample message [Usuario{id=b22c53b2-86da-47a9-9bfe-099c782dd2ef, nombre=Alek Graham III, ciudad=New Caroline, pais=Turkmenistan}]
+
+
+# Created at 2019-05-16T12:35:23.352
+Unexpected IOException with stream: Sent sample message [Usuario{id=192f1cf9-c708-4866-b962-7137f26e055a, nombre=Florencio Schneider, ciudad=New Damiantown, pais=Suriname}]
+
+
+# Created at 2019-05-16T12:35:23.461
+Unexpected IOException with stream: Sent sample message [Usuario{id=24c08e11-4da4-4e16-bc80-ab3bcf1bc0f4, nombre=Mathew Hilll, ciudad=Lake Shawnaburgh, pais=Denmark}]
+
+
+# Created at 2019-05-16T12:35:23.576
+Unexpected IOException with stream: Sent sample message [Usuario{id=c014ab8e-f8f9-486b-be68-5ad50c71d568, nombre=Velva Hessel, ciudad=South Samaratown, pais=Palau}]
+
+
+# Created at 2019-05-16T12:35:23.685
+Unexpected IOException with stream: Sent sample message [Usuario{id=28ff3314-3557-494f-ae09-2c1da13933c8, nombre=Lazaro Smith, ciudad=Havenchester, pais=El Salvador}]
+
+
+# Created at 2019-05-16T12:35:23.795
+Unexpected IOException with stream: Sent sample message [Usuario{id=6bb1416d-b5fa-46f8-ab04-88a4808be6e8, nombre=Vito Kreiger, ciudad=North Sabrina, pais=Turkey}]
+
+
+# Created at 2019-05-16T12:35:23.904
+Unexpected IOException with stream: Sent sample message [Usuario{id=3f7913ae-1fb5-43e3-9619-108a0f9bc834, nombre=Enos Schamberger, ciudad=Lake Mireyaport, pais=United Kingdom}]
+
+
+# Created at 2019-05-16T12:35:24.014
+Unexpected IOException with stream: Sent sample message [Usuario{id=7dbc2911-cb5d-473e-8be6-212708852605, nombre=Dr. Mike O'Conner, ciudad=Lake Tatyana, pais=Cocos (Keeling) Islands}]
+
+
+# Created at 2019-05-16T12:35:24.123
+Unexpected IOException with stream: Sent sample message [Usuario{id=a06fdf4b-c068-4934-9dc9-054fba99e69b, nombre=Lawson O'Reilly, ciudad=New Aftonmouth, pais=Montenegro}]
+
+
+# Created at 2019-05-16T12:35:24.232
+Unexpected IOException with stream: Sent sample message [Usuario{id=845f4df7-80e0-43a1-8f9d-817b4bea7027, nombre=Rosemarie Hoeger, ciudad=Runolfssonville, pais=Tokelau}]
+
+
+# Created at 2019-05-16T12:35:24.342
+Unexpected IOException with stream: Sent sample message [Usuario{id=542f0c44-ca22-497e-83fc-622ef3970304, nombre=Janelle Cole, ciudad=Robelchester, pais=Vietnam}]
+
+
+# Created at 2019-05-16T12:35:24.451
+Unexpected IOException with stream: Sent sample message [Usuario{id=8c635973-5b38-4767-aac2-018bbda8379e, nombre=Brock Walsh, ciudad=Ankundingberg, pais=Namibia}]
+
+
+# Created at 2019-05-16T12:35:24.561
+Unexpected IOException with stream: Sent sample message [Usuario{id=01d2013b-8575-4a51-82a8-ac16aef5e0dc, nombre=Gaylord Bergnaum, ciudad=Rosaliaborough, pais=South Africa}]
+
+
+# Created at 2019-05-16T12:35:24.670
+Unexpected IOException with stream: Sent sample message [Usuario{id=8cd99238-018b-437c-8cae-94ebc640da8c, nombre=Ms. Theo Bauch, ciudad=West Lesleyberg, pais=Panama}]
+
+
+# Created at 2019-05-16T12:35:24.779
+Unexpected IOException with stream: Sent sample message [Usuario{id=0f56dcde-938b-42a6-a92c-122923e49701, nombre=Tyshawn Bogan PhD, ciudad=West Deliastad, pais=American Samoa}]
+
+
+# Created at 2019-05-16T12:35:24.889
+Unexpected IOException with stream: Sent sample message [Usuario{id=734936fc-6a09-437f-bbe8-53cb8da6024c, nombre=Duane Grant, ciudad=North Jaylan, pais=Swaziland}]
+
+
+# Created at 2019-05-16T12:35:24.998
+Unexpected IOException with stream: Sent sample message [Usuario{id=e3e4d761-480c-475c-933c-26677035cf1a, nombre=Noemy Halvorson, ciudad=Metzshire, pais=Faroe Islands}]
+
+
+# Created at 2019-05-16T12:35:25.107
+Unexpected IOException with stream: Sent sample message [Usuario{id=b327f7c9-df7c-4c43-9ce7-41295db9acc8, nombre=Michale Durgan, ciudad=Johnstonchester, pais=Jersey}]
+
+
+# Created at 2019-05-16T12:35:25.217
+Unexpected IOException with stream: Sent sample message [Usuario{id=0eda5f31-7b50-4409-8a2a-625b779f91d5, nombre=Josianne Abernathy, ciudad=Boganside, pais=Angola}]
+
+
+# Created at 2019-05-16T12:35:25.248
+Unexpected IOException with stream: 2019-05-16 12:35:25.248  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.
+
+
+# Created at 2019-05-16T12:35:25.326
+Unexpected IOException with stream: Sent sample message [Usuario{id=73d80a1a-7c10-437f-b600-4ce9fc6493d4, nombre=Elian Herman, ciudad=New Linniemouth, pais=Togo}]
+
+
+# Created at 2019-05-16T12:35:25.436
+Unexpected IOException with stream: Sent sample message [Usuario{id=f58c8a4b-087e-4dcb-8bfa-e57361bc0d36, nombre=Bonnie Harris, ciudad=Kuphalhaven, pais=Norfolk Island}]
+
+
+# Created at 2019-05-16T12:35:25.545
+Unexpected IOException with stream: Sent sample message [Usuario{id=b3f474bf-3d90-40ea-acdf-00dd2943ff42, nombre=Tamara Hayes, ciudad=Faheyberg, pais=Afghanistan}]
+
+
+# Created at 2019-05-16T12:35:25.654
+Unexpected IOException with stream: Sent sample message [Usuario{id=81264cb2-641e-4207-81e5-824a3d5ee0db, nombre=Mr. Adolphus Raynor, ciudad=Dayanastad, pais=China}]
+
+
+# Created at 2019-05-16T12:35:25.764
+Unexpected IOException with stream: Sent sample message [Usuario{id=4141d941-fff5-4b06-8ae4-b319c59bfb1c, nombre=Lucious Ward, ciudad=South Maynardside, pais=Guernsey}]
+
+
+# Created at 2019-05-16T12:35:25.873
+Unexpected IOException with stream: Sent sample message [Usuario{id=1d9f812c-6da6-4405-9599-848ca5835b1b, nombre=Raina Russel, ciudad=North Myastad, pais=Ethiopia}]
+
+
+# Created at 2019-05-16T12:35:25.982
+Unexpected IOException with stream: Sent sample message [Usuario{id=5324a53f-f89e-429d-a08a-633dfb78445b, nombre=George Davis, ciudad=Mortimerport, pais=Palau}]
+
+
+# Created at 2019-05-16T12:35:26.092
+Unexpected IOException with stream: Sent sample message [Usuario{id=18a5b2b1-2e99-4237-b07e-adb083217907, nombre=Mireya Watsica, ciudad=Bernierview, pais=Eritrea}]
+
+
+# Created at 2019-05-16T12:35:26.201
+Unexpected IOException with stream: Sent sample message [Usuario{id=e7819933-afa7-4d2f-bc00-c3ed20a78a87, nombre=Delta Hudson IV, ciudad=North Pink, pais=Liberia}]
+
+
+# Created at 2019-05-16T12:35:26.311
+Unexpected IOException with stream: Sent sample message [Usuario{id=d298007e-14b7-43b6-badb-bbdf1139026e, nombre=Reggie Dare, ciudad=Macytown, pais=Senegal}]
+
+
+# Created at 2019-05-16T12:35:26.420
+Unexpected IOException with stream: Sent sample message [Usuario{id=887c9255-c982-46e5-922f-5acf7c2a79c3, nombre=Tod Sawayn, ciudad=Jenkinsside, pais=Grenada}]
+
+
+# Created at 2019-05-16T12:35:26.529
+Unexpected IOException with stream: Sent sample message [Usuario{id=4c5b44f0-8672-44a3-9eab-578b11b754df, nombre=Tabitha Prosacco DDS, ciudad=Kautzerhaven, pais=Jamaica}]
+
+
+# Created at 2019-05-16T12:35:26.639
+Unexpected IOException with stream: Sent sample message [Usuario{id=45cb12fc-3d3f-4020-93a8-6af65c79e0e4, nombre=Josh Carter, ciudad=Port Sydniview, pais=Bulgaria}]
+
+
+# Created at 2019-05-16T12:35:26.748
+Unexpected IOException with stream: Sent sample message [Usuario{id=864b7bf9-cf7f-43a9-ba97-55da04f6f198, nombre=Danial Macejkovic, ciudad=Lake Chaim, pais=Greece}]
+
+
+# Created at 2019-05-16T12:35:26.858
+Unexpected IOException with stream: Sent sample message [Usuario{id=abea6401-6494-4013-b85b-1a5d87116def, nombre=Chaz Muller, ciudad=Aufderharberg, pais=Malaysia}]
+
+
+# Created at 2019-05-16T12:35:26.967
+Unexpected IOException with stream: Sent sample message [Usuario{id=8456aa6c-cf9b-4307-b4e3-2b2147863229, nombre=Darrell Littel, ciudad=Schinnerland, pais=United Kingdom}]
+
+
+# Created at 2019-05-16T12:35:27.076
+Unexpected IOException with stream: Sent sample message [Usuario{id=776f8c5a-1465-4992-90af-749d8f6b8664, nombre=Mina D'Amore, ciudad=Josefinaland, pais=Pakistan}]
+
+
+# Created at 2019-05-16T12:35:27.186
+Unexpected IOException with stream: Sent sample message [Usuario{id=3569ac2d-5395-4ad0-bc2e-42f326c31526, nombre=Idell Olson, ciudad=East Letachester, pais=Samoa}]
+
+
+# Created at 2019-05-16T12:35:27.295
+Unexpected IOException with stream: Sent sample message [Usuario{id=7cbd1338-217c-401b-b52a-1b038da5c2a7, nombre=Eden Tillman, ciudad=Omariside, pais=Tonga}]
+
+
+# Created at 2019-05-16T12:35:27.404
+Unexpected IOException with stream: Sent sample message [Usuario{id=2d53100d-8ed3-4e00-9c0c-cc6b88c15da4, nombre=Sim Lind, ciudad=South Travisfort, pais=South Africa}]
+
+
+# Created at 2019-05-16T12:35:27.451
+Unexpected IOException with stream: 2019-05-16 12:35:27.451  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Connection to node 0 could not be established. Broker may not be available.
+
+
+# Created at 2019-05-16T12:35:27.514
+Unexpected IOException with stream: Sent sample message [Usuario{id=d8a996c8-980c-4ea7-bf62-7023efb4fbd6, nombre=Raegan Swift, ciudad=South Skyla, pais=Ghana}]
+
+
+# Created at 2019-05-16T12:35:27.623
+Unexpected IOException with stream: Sent sample message [Usuario{id=6af68247-368b-4199-8a43-0fd472a29cd3, nombre=Albin Jakubowski, ciudad=Shyannview, pais=Antarctica (the territory South of 60 deg S)}]
+
+
+# Created at 2019-05-16T12:35:27.733
+Unexpected IOException with stream: Sent sample message [Usuario{id=936bf415-e65d-4c0e-9d0d-bce5a69141d3, nombre=Earnest Schmitt, ciudad=West Leanne, pais=Austria}]
+
+
+# Created at 2019-05-16T12:35:27.842
+Unexpected IOException with stream: Sent sample message [Usuario{id=97b4687f-53fb-4583-8f47-0b661fc80ab4, nombre=Tracey Durgan I, ciudad=Angeloburgh, pais=Israel}]
+
+
+# Created at 2019-05-16T12:35:27.951
+Unexpected IOException with stream: Sent sample message [Usuario{id=50ee8336-5dcc-4c10-a3b9-ed677b8a41a4, nombre=Scarlett Doyle MD, ciudad=Lake Emilioland, pais=Australia}]
+
+
+# Created at 2019-05-16T12:35:28.061
+Unexpected IOException with stream: Sent sample message [Usuario{id=28820c3b-800d-4726-ad42-715f0ff76bb0, nombre=Annie Cruickshank, ciudad=East Moises, pais=Congo}]
+
+
+# Created at 2019-05-16T12:35:28.170
+Unexpected IOException with stream: Sent sample message [Usuario{id=640ae9a6-1b35-431b-b23e-157984b7dc77, nombre=Mr. Jeffrey Walker, ciudad=Baileyville, pais=Georgia}]
+
+
+# Created at 2019-05-16T12:35:28.279
+Unexpected IOException with stream: Sent sample message [Usuario{id=5bc32312-283d-485e-a55d-67da4558dd3a, nombre=Nicole Schoen, ciudad=East Bertram, pais=Japan}]
+
+
+# Created at 2019-05-16T12:35:28.389
+Unexpected IOException with stream: Sent sample message [Usuario{id=8961da82-2e2a-4e95-932a-fa9f16a10da4, nombre=Francisco Hessel, ciudad=Lake Darrell, pais=Montserrat}]
+
+
+# Created at 2019-05-16T12:35:28.498
+Unexpected IOException with stream: Sent sample message [Usuario{id=1595c105-b9e0-4c17-84df-4e5404a500f6, nombre=Rudolph Wyman, ciudad=North Shaniefort, pais=Poland}]
+
+
+# Created at 2019-05-16T12:35:28.608
+Unexpected IOException with stream: Sent sample message [Usuario{id=a9572d25-cd29-4f03-b534-51e9ef40e1bb, nombre=Brionna Von, ciudad=South Amyafurt, pais=Cayman Islands}]
+
+
+# Created at 2019-05-16T12:35:28.717
+Unexpected IOException with stream: Sent sample message [Usuario{id=3f9a1ca5-df83-41f0-bdbf-1fc8aa879684, nombre=Mr. Constantin Jerde, ciudad=West Adell, pais=Kiribati}]
+
+
+# Created at 2019-05-16T12:35:28.826
+Unexpected IOException with stream: Sent sample message [Usuario{id=743bdf4c-b317-4adf-964c-e3d4ae912098, nombre=Miss Edythe Simonis, ciudad=Carrolltown, pais=Cote d'Ivoire}]
+
+
+# Created at 2019-05-16T12:35:28.936
+Unexpected IOException with stream: Sent sample message [Usuario{id=6cba9dcf-3ca4-479e-aa1a-7e2b91c5092d, nombre=Mara Kunde, ciudad=Huldaside, pais=Cape Verde}]
+
+
+# Created at 2019-05-16T12:35:29.045
+Unexpected IOException with stream: Sent sample message [Usuario{id=01e703d3-5423-4c55-9a36-f52ddbca5944, nombre=April Mosciski, ciudad=North Zaneton, pais=Nepal}]
+
+
+# Created at 2019-05-16T12:35:29.154
+Unexpected IOException with stream: Sent sample message [Usuario{id=3cd61c8d-b275-413f-843c-8278c36705a6, nombre=Ocie Littel I, ciudad=South Hertahaven, pais=Macedonia}]
+
+
+# Created at 2019-05-16T12:35:29.264
+Unexpected IOException with stream: Sent sample message [Usuario{id=31d9e016-9371-42a0-ac3d-beac885bfaf2, nombre=Jannie Streich, ciudad=New Casandra, pais=Luxembourg}]
+
+
+# Created at 2019-05-16T12:35:29.373
+Unexpected IOException with stream: Sent sample message [Usuario{id=0f75a8fd-b6dd-4b5e-ae60-4a5d68f025b8, nombre=Ludwig Murphy, ciudad=Cassandramouth, pais=Heard Island and McDonald Islands}]
+
+
+# Created at 2019-05-16T12:35:29.483
+Unexpected IOException with stream: Sent sample message [Usuario{id=fae5fa44-1aa3-4692-90aa-79b9739741ff, nombre=Dedrick Champlin, ciudad=Lake Jovanstad, pais=Slovakia (Slovak Republic)}]
+
+
+# Created at 2019-05-16T12:35:29.592
+Unexpected IOException with stream: Sent sample message [Usuario{id=d561d034-c6db-4c14-a072-0d03eb872419, nombre=Fidel Wehner, ciudad=Johnsonside, pais=Belgium}]
+
+
+# Created at 2019-05-16T12:35:29.701
+Unexpected IOException with stream: Sent sample message [Usuario{id=40d18af1-bec4-4fa0-a50c-0e76b89bc46f, nombre=Maximillia Ryan, ciudad=Scarletttown, pais=Argentina}]
+
+
+# Created at 2019-05-16T12:35:29.811
+Unexpected IOException with stream: Sent sample message [Usuario{id=a6898cd1-8891-41d1-ba9d-509b187caff3, nombre=Kurtis Blick, ciudad=Wisozkville, pais=Comoros}]
+
+
+# Created at 2019-05-16T12:35:29.920
+Unexpected IOException with stream: Sent sample message [Usuario{id=4cab3d7b-f87d-4bfc-a3a7-9b2efdbf7ea1, nombre=Alanna Okuneva, ciudad=West Trever, pais=United States of America}]
+
+
+# Created at 2019-05-16T12:35:30.030
+Unexpected IOException with stream: Sent sample message [Usuario{id=a0bdbd2c-d573-487a-97ad-1f003beb6764, nombre=Dexter Boehm, ciudad=Morarstad, pais=Thailand}]
+
+
+# Created at 2019-05-16T12:35:30.139
+Unexpected IOException with stream: Sent sample message [Usuario{id=6bf27433-2dff-4183-a17c-d30ba9fbb60e, nombre=Blair Bogan I, ciudad=North Dixie, pais=Tonga}]
+
+
+# Created at 2019-05-16T12:35:30.248
+Unexpected IOException with stream: Sent sample message [Usuario{id=3d38004f-11d7-4cde-86da-85e4ceaf3ccd, nombre=Guillermo Ritchie, ciudad=Lake Clementine, pais=Bhutan}]
+
+
+# Created at 2019-05-16T12:35:30.358
+Unexpected IOException with stream: Sent sample message [Usuario{id=ef17904c-6bc9-4a19-9260-56efa57f9800, nombre=Angelica Daugherty, ciudad=Faeborough, pais=Guinea-Bissau}]
+
+
+# Created at 2019-05-16T12:35:30.467
+Unexpected IOException with stream: Sent sample message [Usuario{id=84cc95b4-f0af-4b6c-99d5-2958f4870287, nombre=Billie Stoltenberg, ciudad=Lake Jadastad, pais=Vanuatu}]
+
+
+# Created at 2019-05-16T12:35:30.576
+Unexpected IOException with stream: Sent sample message [Usuario{id=cff3cfba-cec7-4d76-9930-200c613f179f, nombre=Jordan Quitzon, ciudad=Collinsside, pais=Croatia}]
+
+
+# Created at 2019-05-16T12:35:30.686
+Unexpected IOException with stream: Sent sample message [Usuario{id=5f173500-5066-43ef-8a47-d5b2b38e0863, nombre=Dr. Orpha Feeney, ciudad=Bayerberg, pais=Palau}]
+
+
+# Created at 2019-05-16T12:35:30.795
+Unexpected IOException with stream: Sent sample message [Usuario{id=c1b4285c-64f2-4e1e-9d17-0d3a8675b850, nombre=Kirk Spencer, ciudad=New Devon, pais=Palau}]
+
+
+# Created at 2019-05-16T12:35:30.905
+Unexpected IOException with stream: Sent sample message [Usuario{id=cd02e9a7-467d-4d22-9d65-e026f86b0d00, nombre=Alvina Stokes, ciudad=South Kathlynview, pais=Finland}]
+
+
+# Created at 2019-05-16T12:35:31.014
+Unexpected IOException with stream: Sent sample message [Usuario{id=a848b7b0-c08f-4f90-9bdc-04cb45e101e4, nombre=Sally McDermott, ciudad=Franciscaburgh, pais=Zambia}]
+
+
+# Created at 2019-05-16T12:35:31.123
+Unexpected IOException with stream: Sent sample message [Usuario{id=1f4423ae-5799-4ced-87c5-d992e5c07a30, nombre=Adah Gibson, ciudad=South Heloisefort, pais=Israel}]
+
+
+# Created at 2019-05-16T12:35:31.233
+Unexpected IOException with stream: Sent sample message [Usuario{id=952e3912-17e7-41de-bd0f-306e186e6a8e, nombre=Ms. Russ Wisoky, ciudad=North Misael, pais=Austria}]
+
+
+# Created at 2019-05-16T12:35:31.342
+Unexpected IOException with stream: Sent sample message [Usuario{id=0a814e0f-a03d-4984-bebb-e400c4dc1288, nombre=Roslyn Wiza, ciudad=Harrymouth, pais=Bouvet Island (Bouvetoya)}]
+
+
+# Created at 2019-05-16T12:35:31.451
+Unexpected IOException with stream: Sent sample message [Usuario{id=89fd8510-b14b-4e17-93bb-d6d8bb9823e0, nombre=Mikayla Hand, ciudad=Arabury, pais=Reunion}]
+
+
+# Created at 2019-05-16T12:35:31.561
+Unexpected IOException with stream: Sent sample message [Usuario{id=3a482468-c3ae-40bf-a69a-57409accee93, nombre=Garland Jacobson, ciudad=Padbergville, pais=Malaysia}]
+
+
+# Created at 2019-05-16T12:35:31.670
+Unexpected IOException with stream: Sent sample message [Usuario{id=039695a2-3d24-420d-953e-70196b52dc02, nombre=Alisha Kuhlman IV, ciudad=Murrayburgh, pais=Singapore}]
+
+
+# Created at 2019-05-16T12:35:31.780
+Unexpected IOException with stream: Sent sample message [Usuario{id=dad73be1-95cb-407d-a986-116bb7f7e792, nombre=Stephen Hills Sr., ciudad=East Sherman, pais=Djibouti}]
+
+
+# Created at 2019-05-16T12:35:31.889
+Unexpected IOException with stream: Sent sample message [Usuario{id=53b7a1d3-4df1-4dc1-88c1-58d7793868a5, nombre=Mrs. Shemar Dietrich, ciudad=Bogisichside, pais=Tokelau}]
+
+
+# Created at 2019-05-16T12:35:31.998
+Unexpected IOException with stream: Sent sample message [Usuario{id=4839877d-3122-4bf2-93f3-1ab5ae2a9c30, nombre=Leda Medhurst, ciudad=Port Brendenhaven, pais=Kenya}]
+
+
+# Created at 2019-05-16T12:35:32.108
+Unexpected IOException with stream: Sent sample message [Usuario{id=33d8cc74-a93e-482a-b310-b9dd7d9e64dd, nombre=Era Skiles, ciudad=Kemmertown, pais=Solomon Islands}]
+
+
+# Created at 2019-05-16T12:35:32.217
+Unexpected IOException with stream: Sent sample message [Usuario{id=d003ff27-895e-4da4-99ac-a71a52499498, nombre=Koby Feil II, ciudad=Stephenmouth, pais=Serbia}]
+
+
+# Created at 2019-05-16T12:35:32.327
+Unexpected IOException with stream: Sent sample message [Usuario{id=e252c0d5-9fb4-4f24-81e6-58a245789e5d, nombre=Adrienne Zemlak, ciudad=South Pasqualeberg, pais=Mozambique}]
+
+
+# Created at 2019-05-16T12:35:32.436
+Unexpected IOException with stream: Sent sample message [Usuario{id=0e57b7a6-856e-41a4-95a4-3b05e541fd52, nombre=Dr. Joshuah Bogisich, ciudad=New Gwendolynburgh, pais=Malawi}]
+
+
+# Created at 2019-05-16T12:35:32.545
+Unexpected IOException with stream: Sent sample message [Usuario{id=be4450aa-0408-484f-ac86-f452d8bc4217, nombre=Mr. Jaylen Bashirian, ciudad=South Cademouth, pais=Guyana}]
+
+
+# Created at 2019-05-16T12:35:32.655
+Unexpected IOException with stream: Sent sample message [Usuario{id=41c2a3c9-2d9a-448a-b5d3-46d91c0a9412, nombre=Javon Pacocha, ciudad=Rylanfort, pais=Togo}]
+
+
+# Created at 2019-05-16T12:35:32.764
+Unexpected IOException with stream: Sent sample message [Usuario{id=f467135d-1cdd-4bcc-8c43-d2e03a29975e, nombre=Winifred Carroll, ciudad=Predovichaven, pais=Dominican Republic}]
+
+
+# Created at 2019-05-16T12:35:32.873
+Unexpected IOException with stream: Sent sample message [Usuario{id=83827178-b7f4-4d24-9c3f-ed32fbaa0a4e, nombre=Luna Braun, ciudad=East Shadmouth, pais=Tuvalu}]
+
+
+# Created at 2019-05-16T12:35:32.983
+Unexpected IOException with stream: Sent sample message [Usuario{id=12039a11-ef46-47f7-b920-b76ecaa252e8, nombre=Madyson Altenwerth MD, ciudad=North Isaichester, pais=Tanzania}]
+
+
+# Created at 2019-05-16T12:35:33.092
+Unexpected IOException with stream: Sent sample message [Usuario{id=21e5769b-4136-45b6-a514-f8ede7cdf9db, nombre=Iliana Cronin, ciudad=Delltown, pais=Togo}]
+
+
+# Created at 2019-05-16T12:35:33.202
+Unexpected IOException with stream: Sent sample message [Usuario{id=de98cf5a-9596-406c-88ca-397314a70db3, nombre=Camilla Emmerich, ciudad=Juddville, pais=Congo}]
+
+
+# Created at 2019-05-16T12:35:33.311
+Unexpected IOException with stream: Sent sample message [Usuario{id=c5d9bb8e-325d-46d8-b17b-9a9555d0734b, nombre=Everardo Ebert, ciudad=Reillyberg, pais=Turkmenistan}]
+
+
+# Created at 2019-05-16T12:35:33.420
+Unexpected IOException with stream: Sent sample message [Usuario{id=0f1646da-97b1-444d-9d0c-22798e7bc782, nombre=Jaylin Blanda, ciudad=East Kristin, pais=Kuwait}]
+
+
+# Created at 2019-05-16T12:35:33.530
+Unexpected IOException with stream: Sent sample message [Usuario{id=e9566cf7-f563-42b9-9219-d0018665dda0, nombre=Stevie Cruickshank, ciudad=Macejkovicchester, pais=Sweden}]
+
+
+# Created at 2019-05-16T12:35:33.639
+Unexpected IOException with stream: Sent sample message [Usuario{id=8164b57d-45ae-4fdc-b87b-b2b6840fa9c0, nombre=Arturo Powlowski V, ciudad=New Elenora, pais=Egypt}]
+
+
+# Created at 2019-05-16T12:35:33.748
+Unexpected IOException with stream: Sent sample message [Usuario{id=e46995cb-7740-4507-9355-6335ad6eabbd, nombre=Dan Klein, ciudad=Port Vergieshire, pais=Tuvalu}]
+
+
+# Created at 2019-05-16T12:35:33.858
+Unexpected IOException with stream: Sent sample message [Usuario{id=6a1ed492-7215-4f56-b2fc-3d18259d2a4a, nombre=Reed Mann, ciudad=Ankundington, pais=Serbia}]
+
+
+# Created at 2019-05-16T12:35:33.967
+Unexpected IOException with stream: Sent sample message [Usuario{id=fea1ad1b-d92a-4428-a3f3-59d324942f99, nombre=Flo Bahringer IV, ciudad=Ashleighfurt, pais=Hong Kong}]
+
+
+# Created at 2019-05-16T12:35:34.077
+Unexpected IOException with stream: Sent sample message [Usuario{id=8368281e-ef25-4de7-8cdf-d7f5a94a036c, nombre=Bertha Romaguera, ciudad=East Leanna, pais=Cape Verde}]
+
+
+# Created at 2019-05-16T12:35:34.108
+Unexpected IOException with stream: 2019-05-16 12:35:34.092  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Error while fetching metadata with correlation id 88256 : {topicoUsuarios=LEADER_NOT_AVAILABLE}
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=870ca3b0-4626-4ad8-a4ef-70078d4b9b9f, nombre=Natasha Simonis, ciudad=New Monica, pais=Cos...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=efc56d3b-3ec5-4b5d-9310-edaf70c53d6f, nombre=Carter Abbott, ciudad=Clareview, pais=Canada...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3a7fa6ea-51b9-4f48-a2be-2e91c787027b, nombre=Oma Barton PhD, ciudad=Langworthmouth, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=abe8b7c2-85ff-4e2c-95e9-61d0f21d3b95, nombre=Bernard Satterfield II, ciudad=Port Sage, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a97417c7-421c-444c-9e09-037039a4f242, nombre=Nikko Gottlieb, ciudad=Ferrymouth, pais=Cuba...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a1d2f249-d1fc-4200-8a33-52f96c557bd1, nombre=Rose Barton, ciudad=North Cara, pais=Dominic...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=51a85098-d42c-4e85-bdbf-245e22f8a617, nombre=Connor Homenick DDS, ciudad=South Maureenlan...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=9f9e2e83-1a47-44b9-b0e2-1beb6a242926, nombre=Birdie McLaughlin, ciudad=Davinberg, pais=Ma...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=9fac670f-4a5b-4ab6-a84b-454b2bd85eca, nombre=Luz Lehner, ciudad=New Yasmeenborough, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=f8c1c4c4-80a5-4dc2-bc87-6603670c711f, nombre=Mr. Dean Reynolds, ciudad=Nitzschetown, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=ec2d16ad-e783-443d-bb4d-6a6dc0def5f6, nombre=Tatum Doyle, ciudad=New Tyrel, pais=Afghanis...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=fa97e7d0-bfec-4c01-9d5b-ab1baed46879, nombre=Maryam Buckridge, ciudad=Marcellestad, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=b6eee1f2-a282-4f38-9ea9-bdb0eb0ce5c9, nombre=Christian Wintheiser, ciudad=Cristfurt, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0960efbc-9079-4c87-b510-8b6733512c30, nombre=Kailyn Walsh, ciudad=Port Clotildeburgh, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=b57dcdf0-29a3-46d7-af16-bc6cc5cc430e, nombre=Edison Rogahn, ciudad=Gustland, pais=Cambodi...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=32e5d0a1-1ead-4a0d-b007-d5c5ae0cfcf2, nombre=Stephan Eichmann, ciudad=Port Zoila, pais=Ch...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=aa2cf6f2-a69e-47f7-98e4-caf75efc6add, nombre=Dr. Wava Batz, ciudad=South Ricardo, pais=Mo...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=ecf1337a-78f4-4470-aa2d-c94938354bb1, nombre=Stanley Zieme, ciudad=Ryderbury, pais=Virgin...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3363bdf9-c285-428a-a77a-a16cbc26d4db, nombre=Nicola McKenzie, ciudad=West Sylvia, pais=Ne...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=5411816e-86d3-4c6b-9737-b32ab1c5cfc6, nombre=Mr. Scot Ruecker, ciudad=Port Jaidatown, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=b111e1db-1d74-47cc-b86b-8c74ce16c3e6, nombre=Zoe Waelchi, ciudad=Port Earnest, pais=Eritr...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=07daf9b2-5eee-4785-9d17-ea846a94d483, nombre=Makayla Leffler, ciudad=Hicklebury, pais=Bot...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=91f010bf-2642-48c2-bdc5-709ca2e007e2, nombre=Mr. Domenick Eichmann, ciudad=Gaylordchester...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a22533bf-a756-43b1-9d34-ef8da4680338, nombre=Claudine Hahn IV, ciudad=Johnstontown, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=25f23774-a66a-424a-950b-e5b17c685ab2, nombre=Bertrand O'Kon, ciudad=East Rorytown, pais=M...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0314a4be-107f-43f6-a399-caab64551c9f, nombre=Ms. Luz Hammes, ciudad=South Agustin, pais=S...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=19be2a03-e761-4680-886b-e88230907af9, nombre=Leland Turcotte DVM, ciudad=Cleoraside, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=910d33d6-9c24-45f4-85cc-f93bdc2944ac, nombre=Dr. Lilliana Buckridge, ciudad=Klingfort, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=5becbac0-1122-43d7-9889-373e326cf9f7, nombre=Annetta Watsica, ciudad=Sabrinashire, pais=C...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0169416d-d39a-49fe-8661-9d9993045863, nombre=Tyrell Greenfelder, ciudad=West Ryleehaven, ...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=55038b2f-b564-451e-a828-0e49724ec7fc, nombre=Bailee Barrows, ciudad=Marcosstad, pais=Unit...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3acb3389-6add-42b1-9118-5edaabea28f1, nombre=Graham Walter, ciudad=Schmittfort, pais=Sri ...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=19b138f7-62ba-4d8f-8678-d5ed8aec355a, nombre=Mr. Glen Hodkiewicz, ciudad=New Alivia, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=939b9642-f51c-44d4-bd0d-2db77e3e146d, nombre=Martine Trantow, ciudad=Predovicchester, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=2ddb396f-4ee0-433c-9f41-36c8b70f2361, nombre=Mr. Sonny O'Hara, ciudad=New Clotildehaven, ...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=5fb8dd40-0064-4ae5-b0db-e82719917ca3, nombre=Eliezer Carroll, ciudad=West Jonasfort, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=e0d18a91-9aee-4824-9a70-b5620667922d, nombre=Theodora Wolf PhD, ciudad=North Gustave, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=2385903b-d6b7-46d0-84b6-8bc8ca751d93, nombre=Bulah Beatty, ciudad=Mosciskimouth, pais=Les...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=29774fb6-7353-45a8-885c-0b011b4743eb, nombre=Ava Monahan, ciudad=Osinskibury, pais=Maldiv...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=ea6b5ecf-383e-4ac8-90f7-47ffc6a5eab2, nombre=Alverta Reynolds, ciudad=East Isomville, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=8834a0df-a858-459b-ac3f-07712840779a, nombre=Lazaro Klein, ciudad=New Euna, pais=Kazakhst...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a19d9f74-ebaa-40d2-aea6-314276d499e5, nombre=Jordy Keebler, ciudad=Kuhicmouth, pais=Burun...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=275f6fa7-4852-474a-830d-eeecd056a36b, nombre=Ocie Morissette V, ciudad=Gleichnerside, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=09651afc-703a-4544-9031-795df714cdba, nombre=Loyce Quitzon, ciudad=Lake Cecil, pais=Taiwa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=fc2a8a0b-a52d-48c0-8cde-e64f7cd5f647, nombre=General Hartmann MD, ciudad=New Onaville, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=da166f5f-79ec-4946-81a3-33525da72430, nombre=Mollie Schiller, ciudad=West Cristianchester...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=ec978c59-08c4-4562-896c-b45276fad4bd, nombre=Ms. Korbin Schinner, ciudad=Einoview, pais=L...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=963e01c9-5af7-4ee2-a071-44cd80f55cec, nombre=Hollis Leannon, ciudad=Giovanichester, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=009f9d41-5e42-47ee-98a9-322d5fe95dfc, nombre=Reilly Ondricka, ciudad=New Caleigh, pais=In...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=21627651-c6b5-41c3-9a42-a2576c77feee, nombre=Kamille Yost IV, ciudad=West Vernieton, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=037946e2-7170-4eaf-ac55-e6b40c2811da, nombre=Savion Buckridge, ciudad=New Joannyville, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.123
+Unexpected IOException with stream: 2019-05-16 12:35:34.123 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=9b2ae31b-a47c-4f28-b800-1b3ce1376b78, nombre=Derek Barrows, ciudad=Port Glennie, pais=Nig...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=146b658c-268e-4c27-8a82-9335efcb48bc, nombre=Delbert Harber, ciudad=West Thea, pais=Antar...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=f60669c6-2c75-4300-85a6-03040dad8315, nombre=Ashlynn Dach, ciudad=Concepcionland, pais=Gh...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=b2c54398-9c94-494c-bced-d064315ab86e, nombre=Margarita Gibson PhD, ciudad=East Gina, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=8860b450-cfa2-4723-91e9-fa2765b89e52, nombre=Zachery Streich, ciudad=Port Cordiaborough, ...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3af475d9-eefa-4b36-ac71-05d7442fc4d5, nombre=Brown Franecki, ciudad=Bethelburgh, pais=Por...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=04f08d8a-b103-4b1d-bb01-6cf659456ae5, nombre=Jaclyn Jaskolski Jr., ciudad=New Pansy, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=e1b7582e-80f4-4bbc-8097-aec3dca69d9c, nombre=Miss Alysa Abernathy, ciudad=Weimannside, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=38368e5d-d616-4891-8792-f0ed7be3022c, nombre=Cornell Torp, ciudad=Mooremouth, pais=Democr...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=cc73f826-6a7e-4ba4-be5f-39450ca7f91b, nombre=Patsy Labadie, ciudad=Port Eliseo, pais=Falk...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=1d9c49a3-cb3a-46d8-b4b8-ad7a965eb58f, nombre=Keshaun Simonis, ciudad=Port Ludieport, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3c6771dc-5550-4e78-8bba-eda3bf1f8e5f, nombre=Celine MacGyver, ciudad=South Eino, pais=Gre...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a1e1e599-1284-46f7-9772-c069dca12b4c, nombre=Johnson Skiles, ciudad=Gavinburgh, pais=Ghan...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=8b15ad6f-9634-492f-b677-fc350a498362, nombre=Eleonore Jakubowski, ciudad=North Shaniya, p...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=28d3efad-8c10-4d1d-b869-6cdbc1daf276, nombre=Flossie Breitenberg, ciudad=Yesseniaview, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=524f36a2-c7f2-467b-9155-9ae55afb3c07, nombre=Judge Koepp, ciudad=New Roger, pais=American...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=7f750333-651d-4cbd-a7ed-d6164c5e8b62, nombre=Ms. Lavern Bosco, ciudad=West Melodyfort, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=c46b0e2a-dca3-4d28-869c-0757205eb06c, nombre=Alanis Armstrong Sr., ciudad=New Keshawnbury...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=cac9c346-07ae-481a-860f-25786f3932ae, nombre=Dorthy Gleason I, ciudad=Rutherfordland, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=941a71e3-6166-4d85-9de0-ccecb10069a5, nombre=Brian Goldner, ciudad=Efrainchester, pais=Ec...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=f2b88154-98e6-4691-b120-20631794eb46, nombre=Jayce Toy, ciudad=Lowellbury, pais=Saint Bar...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=85be1c71-6dbf-45df-8c76-1e461cd6d67f, nombre=Benjamin Effertz, ciudad=West Kitty, pais=Sw...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0b465a6e-4da9-4e58-8614-b9604ad0ba17, nombre=Thurman Jacobson, ciudad=Gastonport, pais=Li...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=7b05e4a0-0ff0-470f-968e-9aa0bee024c8, nombre=Allen Mayert, ciudad=Port Audreanne, pais=Li...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a2a36332-e713-48b6-ad78-d7b6bdf00265, nombre=Jeremy D'Amore III, ciudad=Turnerville, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=fa3c21ef-8785-4842-89d5-973ba1b1b9f3, nombre=Coralie Rippin, ciudad=Daltonmouth, pais=Sai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=6374e1be-b0b3-47b1-810d-a1ef65bd1122, nombre=Marc McLaughlin, ciudad=Casperberg, pais=Mon...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=ccd69c16-76c0-4a3a-9790-fb3c3f489907, nombre=Ms. Kamron Kautzer, ciudad=Lake Barbara, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=6de7eaff-3815-4d3e-a164-403289b9be8d, nombre=Abdiel Fadel, ciudad=Myrastad, pais=Uzbekist...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=b22c53b2-86da-47a9-9bfe-099c782dd2ef, nombre=Alek Graham III, ciudad=New Caroline, pais=T...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=192f1cf9-c708-4866-b962-7137f26e055a, nombre=Florencio Schneider, ciudad=New Damiantown, ...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=24c08e11-4da4-4e16-bc80-ab3bcf1bc0f4, nombre=Mathew Hilll, ciudad=Lake Shawnaburgh, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=c014ab8e-f8f9-486b-be68-5ad50c71d568, nombre=Velva Hessel, ciudad=South Samaratown, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=28ff3314-3557-494f-ae09-2c1da13933c8, nombre=Lazaro Smith, ciudad=Havenchester, pais=El S...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=6bb1416d-b5fa-46f8-ab04-88a4808be6e8, nombre=Vito Kreiger, ciudad=North Sabrina, pais=Tur...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3f7913ae-1fb5-43e3-9619-108a0f9bc834, nombre=Enos Schamberger, ciudad=Lake Mireyaport, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=7dbc2911-cb5d-473e-8be6-212708852605, nombre=Dr. Mike O'Conner, ciudad=Lake Tatyana, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a06fdf4b-c068-4934-9dc9-054fba99e69b, nombre=Lawson O'Reilly, ciudad=New Aftonmouth, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=845f4df7-80e0-43a1-8f9d-817b4bea7027, nombre=Rosemarie Hoeger, ciudad=Runolfssonville, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=542f0c44-ca22-497e-83fc-622ef3970304, nombre=Janelle Cole, ciudad=Robelchester, pais=Viet...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=8c635973-5b38-4767-aac2-018bbda8379e, nombre=Brock Walsh, ciudad=Ankundingberg, pais=Nami...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=01d2013b-8575-4a51-82a8-ac16aef5e0dc, nombre=Gaylord Bergnaum, ciudad=Rosaliaborough, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=8cd99238-018b-437c-8cae-94ebc640da8c, nombre=Ms. Theo Bauch, ciudad=West Lesleyberg, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0f56dcde-938b-42a6-a92c-122923e49701, nombre=Tyshawn Bogan PhD, ciudad=West Deliastad, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=734936fc-6a09-437f-bbe8-53cb8da6024c, nombre=Duane Grant, ciudad=North Jaylan, pais=Swazi...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=e3e4d761-480c-475c-933c-26677035cf1a, nombre=Noemy Halvorson, ciudad=Metzshire, pais=Faro...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=b327f7c9-df7c-4c43-9ce7-41295db9acc8, nombre=Michale Durgan, ciudad=Johnstonchester, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0eda5f31-7b50-4409-8a2a-625b779f91d5, nombre=Josianne Abernathy, ciudad=Boganside, pais=A...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=73d80a1a-7c10-437f-b600-4ce9fc6493d4, nombre=Elian Herman, ciudad=New Linniemouth, pais=T...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139  WARN 4140 --- [ad | producer-1] o.a.k.clients.producer.internals.Sender  : [Producer clientId=producer-1] Received unknown topic or partition error in produce request on partition topicoUsuarios-0. The topic/partition may not exist or the user may not have Describe access to it
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=f58c8a4b-087e-4dcb-8bfa-e57361bc0d36, nombre=Bonnie Harris, ciudad=Kuphalhaven, pais=Norf...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=b3f474bf-3d90-40ea-acdf-00dd2943ff42, nombre=Tamara Hayes, ciudad=Faheyberg, pais=Afghani...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=81264cb2-641e-4207-81e5-824a3d5ee0db, nombre=Mr. Adolphus Raynor, ciudad=Dayanastad, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=4141d941-fff5-4b06-8ae4-b319c59bfb1c, nombre=Lucious Ward, ciudad=South Maynardside, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=1d9f812c-6da6-4405-9599-848ca5835b1b, nombre=Raina Russel, ciudad=North Myastad, pais=Eth...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=5324a53f-f89e-429d-a08a-633dfb78445b, nombre=George Davis, ciudad=Mortimerport, pais=Pala...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=18a5b2b1-2e99-4237-b07e-adb083217907, nombre=Mireya Watsica, ciudad=Bernierview, pais=Eri...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=e7819933-afa7-4d2f-bc00-c3ed20a78a87, nombre=Delta Hudson IV, ciudad=North Pink, pais=Lib...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=d298007e-14b7-43b6-badb-bbdf1139026e, nombre=Reggie Dare, ciudad=Macytown, pais=Senegal}' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=887c9255-c982-46e5-922f-5acf7c2a79c3, nombre=Tod Sawayn, ciudad=Jenkinsside, pais=Grenada...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=4c5b44f0-8672-44a3-9eab-578b11b754df, nombre=Tabitha Prosacco DDS, ciudad=Kautzerhaven, p...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=45cb12fc-3d3f-4020-93a8-6af65c79e0e4, nombre=Josh Carter, ciudad=Port Sydniview, pais=Bul...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=864b7bf9-cf7f-43a9-ba97-55da04f6f198, nombre=Danial Macejkovic, ciudad=Lake Chaim, pais=G...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=abea6401-6494-4013-b85b-1a5d87116def, nombre=Chaz Muller, ciudad=Aufderharberg, pais=Mala...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=8456aa6c-cf9b-4307-b4e3-2b2147863229, nombre=Darrell Littel, ciudad=Schinnerland, pais=Un...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.139
+Unexpected IOException with stream: 2019-05-16 12:35:34.139 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=776f8c5a-1465-4992-90af-749d8f6b8664, nombre=Mina D'Amore, ciudad=Josefinaland, pais=Paki...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3569ac2d-5395-4ad0-bc2e-42f326c31526, nombre=Idell Olson, ciudad=East Letachester, pais=S...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=7cbd1338-217c-401b-b52a-1b038da5c2a7, nombre=Eden Tillman, ciudad=Omariside, pais=Tonga}' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=2d53100d-8ed3-4e00-9c0c-cc6b88c15da4, nombre=Sim Lind, ciudad=South Travisfort, pais=Sout...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=d8a996c8-980c-4ea7-bf62-7023efb4fbd6, nombre=Raegan Swift, ciudad=South Skyla, pais=Ghana...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=6af68247-368b-4199-8a43-0fd472a29cd3, nombre=Albin Jakubowski, ciudad=Shyannview, pais=An...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=936bf415-e65d-4c0e-9d0d-bce5a69141d3, nombre=Earnest Schmitt, ciudad=West Leanne, pais=Au...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=97b4687f-53fb-4583-8f47-0b661fc80ab4, nombre=Tracey Durgan I, ciudad=Angeloburgh, pais=Is...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=50ee8336-5dcc-4c10-a3b9-ed677b8a41a4, nombre=Scarlett Doyle MD, ciudad=Lake Emilioland, p...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=28820c3b-800d-4726-ad42-715f0ff76bb0, nombre=Annie Cruickshank, ciudad=East Moises, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=640ae9a6-1b35-431b-b23e-157984b7dc77, nombre=Mr. Jeffrey Walker, ciudad=Baileyville, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=5bc32312-283d-485e-a55d-67da4558dd3a, nombre=Nicole Schoen, ciudad=East Bertram, pais=Jap...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=8961da82-2e2a-4e95-932a-fa9f16a10da4, nombre=Francisco Hessel, ciudad=Lake Darrell, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.155
+Unexpected IOException with stream: 2019-05-16 12:35:34.155 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=1595c105-b9e0-4c17-84df-4e5404a500f6, nombre=Rudolph Wyman, ciudad=North Shaniefort, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a9572d25-cd29-4f03-b534-51e9ef40e1bb, nombre=Brionna Von, ciudad=South Amyafurt, pais=Cay...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3f9a1ca5-df83-41f0-bdbf-1fc8aa879684, nombre=Mr. Constantin Jerde, ciudad=West Adell, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=743bdf4c-b317-4adf-964c-e3d4ae912098, nombre=Miss Edythe Simonis, ciudad=Carrolltown, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=6cba9dcf-3ca4-479e-aa1a-7e2b91c5092d, nombre=Mara Kunde, ciudad=Huldaside, pais=Cape Verd...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=01e703d3-5423-4c55-9a36-f52ddbca5944, nombre=April Mosciski, ciudad=North Zaneton, pais=N...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3cd61c8d-b275-413f-843c-8278c36705a6, nombre=Ocie Littel I, ciudad=South Hertahaven, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=31d9e016-9371-42a0-ac3d-beac885bfaf2, nombre=Jannie Streich, ciudad=New Casandra, pais=Lu...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0f75a8fd-b6dd-4b5e-ae60-4a5d68f025b8, nombre=Ludwig Murphy, ciudad=Cassandramouth, pais=H...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=fae5fa44-1aa3-4692-90aa-79b9739741ff, nombre=Dedrick Champlin, ciudad=Lake Jovanstad, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=d561d034-c6db-4c14-a072-0d03eb872419, nombre=Fidel Wehner, ciudad=Johnsonside, pais=Belgi...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=40d18af1-bec4-4fa0-a50c-0e76b89bc46f, nombre=Maximillia Ryan, ciudad=Scarletttown, pais=A...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a6898cd1-8891-41d1-ba9d-509b187caff3, nombre=Kurtis Blick, ciudad=Wisozkville, pais=Comor...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=4cab3d7b-f87d-4bfc-a3a7-9b2efdbf7ea1, nombre=Alanna Okuneva, ciudad=West Trever, pais=Uni...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a0bdbd2c-d573-487a-97ad-1f003beb6764, nombre=Dexter Boehm, ciudad=Morarstad, pais=Thailan...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=6bf27433-2dff-4183-a17c-d30ba9fbb60e, nombre=Blair Bogan I, ciudad=North Dixie, pais=Tong...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3d38004f-11d7-4cde-86da-85e4ceaf3ccd, nombre=Guillermo Ritchie, ciudad=Lake Clementine, p...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=ef17904c-6bc9-4a19-9260-56efa57f9800, nombre=Angelica Daugherty, ciudad=Faeborough, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=84cc95b4-f0af-4b6c-99d5-2958f4870287, nombre=Billie Stoltenberg, ciudad=Lake Jadastad, pa...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=cff3cfba-cec7-4d76-9930-200c613f179f, nombre=Jordan Quitzon, ciudad=Collinsside, pais=Cro...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=5f173500-5066-43ef-8a47-d5b2b38e0863, nombre=Dr. Orpha Feeney, ciudad=Bayerberg, pais=Pal...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=c1b4285c-64f2-4e1e-9d17-0d3a8675b850, nombre=Kirk Spencer, ciudad=New Devon, pais=Palau}' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=cd02e9a7-467d-4d22-9d65-e026f86b0d00, nombre=Alvina Stokes, ciudad=South Kathlynview, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=a848b7b0-c08f-4f90-9bdc-04cb45e101e4, nombre=Sally McDermott, ciudad=Franciscaburgh, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=1f4423ae-5799-4ced-87c5-d992e5c07a30, nombre=Adah Gibson, ciudad=South Heloisefort, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=952e3912-17e7-41de-bd0f-306e186e6a8e, nombre=Ms. Russ Wisoky, ciudad=North Misael, pais=A...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0a814e0f-a03d-4984-bebb-e400c4dc1288, nombre=Roslyn Wiza, ciudad=Harrymouth, pais=Bouvet ...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=89fd8510-b14b-4e17-93bb-d6d8bb9823e0, nombre=Mikayla Hand, ciudad=Arabury, pais=Reunion}' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=3a482468-c3ae-40bf-a69a-57409accee93, nombre=Garland Jacobson, ciudad=Padbergville, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=039695a2-3d24-420d-953e-70196b52dc02, nombre=Alisha Kuhlman IV, ciudad=Murrayburgh, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=dad73be1-95cb-407d-a986-116bb7f7e792, nombre=Stephen Hills Sr., ciudad=East Sherman, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=53b7a1d3-4df1-4dc1-88c1-58d7793868a5, nombre=Mrs. Shemar Dietrich, ciudad=Bogisichside, p...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=4839877d-3122-4bf2-93f3-1ab5ae2a9c30, nombre=Leda Medhurst, ciudad=Port Brendenhaven, pai...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=33d8cc74-a93e-482a-b310-b9dd7d9e64dd, nombre=Era Skiles, ciudad=Kemmertown, pais=Solomon ...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=d003ff27-895e-4da4-99ac-a71a52499498, nombre=Koby Feil II, ciudad=Stephenmouth, pais=Serb...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=e252c0d5-9fb4-4f24-81e6-58a245789e5d, nombre=Adrienne Zemlak, ciudad=South Pasqualeberg, ...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0e57b7a6-856e-41a4-95a4-3b05e541fd52, nombre=Dr. Joshuah Bogisich, ciudad=New Gwendolynbu...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=be4450aa-0408-484f-ac86-f452d8bc4217, nombre=Mr. Jaylen Bashirian, ciudad=South Cademouth...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=41c2a3c9-2d9a-448a-b5d3-46d91c0a9412, nombre=Javon Pacocha, ciudad=Rylanfort, pais=Togo}' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=f467135d-1cdd-4bcc-8c43-d2e03a29975e, nombre=Winifred Carroll, ciudad=Predovichaven, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=83827178-b7f4-4d24-9c3f-ed32fbaa0a4e, nombre=Luna Braun, ciudad=East Shadmouth, pais=Tuva...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=12039a11-ef46-47f7-b920-b76ecaa252e8, nombre=Madyson Altenwerth MD, ciudad=North Isaiches...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=21e5769b-4136-45b6-a514-f8ede7cdf9db, nombre=Iliana Cronin, ciudad=Delltown, pais=Togo}' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=de98cf5a-9596-406c-88ca-397314a70db3, nombre=Camilla Emmerich, ciudad=Juddville, pais=Con...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=c5d9bb8e-325d-46d8-b17b-9a9555d0734b, nombre=Everardo Ebert, ciudad=Reillyberg, pais=Turk...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=0f1646da-97b1-444d-9d0c-22798e7bc782, nombre=Jaylin Blanda, ciudad=East Kristin, pais=Kuw...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=e9566cf7-f563-42b9-9219-d0018665dda0, nombre=Stevie Cruickshank, ciudad=Macejkovicchester...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=8164b57d-45ae-4fdc-b87b-b2b6840fa9c0, nombre=Arturo Powlowski V, ciudad=New Elenora, pais...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=e46995cb-7740-4507-9355-6335ad6eabbd, nombre=Dan Klein, ciudad=Port Vergieshire, pais=Tuv...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=6a1ed492-7215-4f56-b2fc-3d18259d2a4a, nombre=Reed Mann, ciudad=Ankundington, pais=Serbia}' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=fea1ad1b-d92a-4428-a3f3-59d324942f99, nombre=Flo Bahringer IV, ciudad=Ashleighfurt, pais=...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170  WARN 4140 --- [ad | producer-1] o.a.k.clients.producer.internals.Sender  : [Producer clientId=producer-1] Received unknown topic or partition error in produce request on partition topicoUsuarios-0. The topic/partition may not exist or the user may not have Describe access to it
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170 ERROR 4140 --- [ad | producer-1] o.s.k.support.LoggingProducerListener    : Exception thrown when sending a message with key='null' and payload='Usuario{id=8368281e-ef25-4de7-8cdf-d7f5a94a036c, nombre=Bertha Romaguera, ciudad=East Leanna, pais=C...' to topic topicoUsuarios:
+
+org.apache.kafka.common.errors.UnknownTopicOrPartitionException: This server does not host this topic-partition.
+
+
+
+# Created at 2019-05-16T12:35:34.170
+Unexpected IOException with stream: 2019-05-16 12:35:34.170  WARN 4140 --- [ad | producer-1] o.a.k.clients.producer.internals.Sender  : [Producer clientId=producer-1] Received unknown topic or partition error in produce request on partition topicoUsuarios-0. The topic/partition may not exist or the user may not have Describe access to it
+
+
+# Created at 2019-05-16T12:35:34.202
+Unexpected IOException with stream: 2019-05-16 12:35:34.202  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Error while fetching metadata with correlation id 88260 : {topicoUsuarios=LEADER_NOT_AVAILABLE}
+
+
+# Created at 2019-05-16T12:35:34.327
+Unexpected IOException with stream: 2019-05-16 12:35:34.327  WARN 4140 --- [ad | producer-1] org.apache.kafka.clients.NetworkClient   : [Producer clientId=producer-1] Error while fetching metadata with correlation id 88261 : {topicoUsuarios=LEADER_NOT_AVAILABLE}
+
+
+# Created at 2019-05-16T12:35:34.436
+Unexpected IOException with stream: Sent sample message [Usuario{id=767d9598-3083-414a-944b-1b996a1a79db, nombre=Laurine Oberbrunner, ciudad=Hermanport, pais=South Africa}]
+
+
+# Created at 2019-05-16T12:35:34.545
+Unexpected IOException with stream: Sent sample message [Usuario{id=da7069db-aa7d-4c90-a473-28d7523998eb, nombre=Bradly Mayer, ciudad=East Wayne, pais=Tokelau}]
+
+
+# Created at 2019-05-16T12:35:34.670
+Unexpected IOException with stream: Sent sample message [Usuario{id=17111951-63ad-426e-89c0-3bbc703e7296, nombre=Vladimir Johnson, ciudad=Dorabury, pais=Denmark}]
+
+
+# Created at 2019-05-16T12:35:34.780
+Unexpected IOException with stream: Sent sample message [Usuario{id=81e661e9-e2e0-4f2f-948f-5ea27609a3d3, nombre=Ms. Lukas Stracke, ciudad=Hesselburgh, pais=Spain}]
+
+
+# Created at 2019-05-16T12:35:34.889
+Unexpected IOException with stream: Sent sample message [Usuario{id=7ffce9c4-1916-42d4-9e24-45973c5533cf, nombre=Amie Dickens PhD, ciudad=Pedroland, pais=Algeria}]
+
+
+# Created at 2019-05-16T12:35:34.999
+Unexpected IOException with stream: Sent sample message [Usuario{id=e598cca4-80c8-4d2d-9b16-9b292d0280a3, nombre=Holly Murray, ciudad=New Kacieburgh, pais=Uruguay}]
+
+
+# Created at 2019-05-16T12:35:35.108
+Unexpected IOException with stream: Sent sample message [Usuario{id=450f1dda-be1e-4226-bcff-5a733fa4e2eb, nombre=Jayce Dickens V, ciudad=Billport, pais=Botswana}]
+
+
+# Created at 2019-05-16T12:35:35.217
+Unexpected IOException with stream: Sent sample message [Usuario{id=c5931010-e1f2-4503-8fdf-2e3e8fac9239, nombre=Jazmyne McCullough MD, ciudad=South Ardenside, pais=Comoros}]
+
+
+# Created at 2019-05-16T12:35:35.327
+Unexpected IOException with stream: Sent sample message [Usuario{id=e53c4e67-a3ab-40d9-83f8-2c47337c1ef7, nombre=Amelie Cartwright, ciudad=Rosaliaport, pais=Liberia}]
+
+
+# Created at 2019-05-16T12:35:35.436
+Unexpected IOException with stream: Sent sample message [Usuario{id=12022c8c-71e3-4622-96e1-02223986ebfa, nombre=Dane Braun, ciudad=Heaneyberg, pais=Austria}]
+
+
+# Created at 2019-05-16T12:35:35.561
+Unexpected IOException with stream: Sent sample message [Usuario{id=71f339e2-6fbe-4c0b-a614-22157f78824b, nombre=Naomi Lebsack, ciudad=North Arden, pais=Saudi Arabia}]
+
+
+# Created at 2019-05-16T12:35:35.670
+Unexpected IOException with stream: Sent sample message [Usuario{id=fcbd1833-3391-4265-ae34-0f8e82ece6a5, nombre=Garry Volkman, ciudad=Wisozkburgh, pais=Vanuatu}]
+
+
+# Created at 2019-05-16T12:35:35.780
+Unexpected IOException with stream: Sent sample message [Usuario{id=f357518c-6f63-49a6-9584-2def6be3a280, nombre=Giovani Leuschke, ciudad=East Johnpaul, pais=Christmas Island}]
+
+
